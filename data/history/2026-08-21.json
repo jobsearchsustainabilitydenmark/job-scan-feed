@@ -1,110 +1,482 @@
 {
-  "generated_at": "2026-08-21T11:29:31+02:00",
+  "generated_at": "2026-08-21T11:39:38+02:00",
   "scan_window_hours": 30,
   "sources": {
     "jobindex": {
       "status": "ok",
       "pages_ok": 12,
       "raw_results": 170,
-      "unique_results": 153,
+      "unique_results": 154,
       "errors": []
     },
     "linkedin": {
       "status": "ok",
       "queries_ok": 8,
-      "raw_results": 193,
-      "unique_results": 86,
+      "raw_results": 200,
+      "unique_results": 104,
       "errors": []
     }
   },
   "counts": {
-    "raw_unique_jobs_seen_this_run": 239,
-    "new_jobs": 5
+    "raw_unique_jobs_seen_this_run": 258,
+    "new_jobs": 30
   },
   "controls": {
-    "expected_linkedin_job_ids": [
-      "4456487107"
-    ],
-    "found_linkedin_job_ids": [
-      "4456487107"
-    ],
+    "expected_linkedin_job_ids": [],
+    "found_linkedin_job_ids": [],
     "missing_linkedin_job_ids": []
   },
   "new_jobs": [
     {
       "source": "jobindex",
-      "source_id": "h1691418",
-      "title": "Financial Assistant",
-      "company": "KMC",
-      "location": "Brande og mulighed for hjemmearbejde",
+      "source_id": "h1691419",
+      "title": "Projektindkøber til Koncernindkøb - Afd. for Økonomi og Regnskab",
+      "company": "DTU, Danmarks Tekniske Universitet",
+      "location": "Kgs. Lyngby og mulighed for hjemmearbejde",
       "posted_at": "2026-08-21",
-      "deadline": "2026-09-14",
-      "url": "https://www.jobindex.dk/jobannonce/h1691418",
+      "deadline": "2026-09-06",
+      "url": "https://www.jobindex.dk/jobannonce/h1691419",
       "search_queries": [
         "bæredygtighed"
       ],
-      "first_seen_at": "2026-08-21T11:29:31+02:00",
-      "last_seen_at": "2026-08-21T11:29:31+02:00"
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "jobindex",
+      "source_id": "h1691411",
+      "title": "Produktionsmedarbejder til præcisionsproduktion – Mekoprint Micromechanics",
+      "company": "Mekoprint A/S",
+      "location": "Støvring",
+      "posted_at": "2026-08-21",
+      "deadline": "2026-09-09",
+      "url": "https://www.jobindex.dk/jobannonce/h1691411",
+      "search_queries": [
+        "bæredygtighed"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
     },
     {
       "source": "linkedin",
-      "source_id": "4456743478",
-      "title": "Rail Leader - Sweden",
+      "source_id": "4456459733",
+      "title": "Team Lead - Business Support",
+      "company": "Lely",
+      "location": "Fredericia, Region of Southern Denmark, Denmark",
+      "posted_at": "2026-08-20",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4456459733",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4456468096",
+      "title": "Senior SAP EWM Consultant",
+      "company": "Westernacher Consulting",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "posted_at": "2026-08-20",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4456468096",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4453858736",
+      "title": "Industrial PhD candidate in fibro-metabolic osteoarthritis: blood-based molecular endotyping",
+      "company": "Nordic Bioscience",
+      "location": "Herlev, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-08-20",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4453858736",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4428481016",
+      "title": "Driftsleder - Nærum",
+      "company": "Netto, Salling Group",
+      "location": "Nærum, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-08-20",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4428481016",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4455638131",
+      "title": "DevOps-engineer til integrationer og platforme",
+      "company": "Politi",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-08-20",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4455638131",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4456036767",
+      "title": "Vil du være med til at forme fremtidens offentlige sektor?",
+      "company": "PwC Danmark",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "posted_at": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4456036767",
+      "search_queries": [
+        "ESG"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4456741456",
+      "title": "Transport Project Leader - Denmark",
       "company": "Arup",
       "location": "Copenhagen, Capital Region of Denmark, Denmark",
       "posted_at": null,
       "deadline": null,
-      "url": "https://www.linkedin.com/jobs/view/4456743478",
+      "url": "https://www.linkedin.com/jobs/view/4456741456",
       "search_queries": [
         "decarbonisation"
       ],
-      "first_seen_at": "2026-08-21T11:29:31+02:00",
-      "last_seen_at": "2026-08-21T11:29:31+02:00"
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
     },
     {
       "source": "linkedin",
-      "source_id": "4446809992",
-      "title": "Procurement Specialist",
-      "company": "Ball Corporation",
-      "location": "Fredericia, Region of Southern Denmark, Denmark",
+      "source_id": "4437032136",
+      "title": "Technical Lead - Substation",
+      "company": "COWI",
+      "location": "Kongens Lyngby, Capital Region of Denmark, Denmark",
       "posted_at": null,
       "deadline": null,
-      "url": "https://www.linkedin.com/jobs/view/4446809992",
+      "url": "https://www.linkedin.com/jobs/view/4437032136",
+      "search_queries": [
+        "climate"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4454197358",
+      "title": "Teamleder for Videndeling i Styrelsen for Samfundssikkerhed",
+      "company": "Ministeriet for Samfundssikkerhed og Beredskab",
+      "location": null,
+      "posted_at": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4454197358",
       "search_queries": [
         "circularity"
       ],
-      "first_seen_at": "2026-08-21T11:29:31+02:00",
-      "last_seen_at": "2026-08-21T11:29:31+02:00"
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
     },
     {
       "source": "linkedin",
-      "source_id": "4456732294",
-      "title": "Junior Portefølje Business Partner til ledelsesrapportering og porteføljestyring i Eltransmission",
-      "company": "Energinet",
-      "location": "Fredericia, Region of Southern Denmark, Denmark",
+      "source_id": "4456083339",
+      "title": "Socialrådgiver/Socialformidler til Ungeteam Nakskov",
+      "company": "Lolland Kommune",
+      "location": "Lolland Municipality, Region Zealand, Denmark",
       "posted_at": null,
       "deadline": null,
-      "url": "https://www.linkedin.com/jobs/view/4456732294",
+      "url": "https://www.linkedin.com/jobs/view/4456083339",
       "search_queries": [
-        "decarbonisation"
+        "LCA"
       ],
-      "first_seen_at": "2026-08-21T11:29:31+02:00",
-      "last_seen_at": "2026-08-21T11:29:31+02:00"
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
     },
     {
       "source": "linkedin",
-      "source_id": "4454125557",
-      "title": "Early Engagement Engineer",
-      "company": "NOV",
-      "location": "Capital Region of Denmark, Denmark",
+      "source_id": "4388346174",
+      "title": "Senior Platform Engineer",
+      "company": "Veo Technologies",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
       "posted_at": null,
       "deadline": null,
-      "url": "https://www.linkedin.com/jobs/view/4454125557",
+      "url": "https://www.linkedin.com/jobs/view/4388346174",
       "search_queries": [
-        "decarbonisation"
+        "circularity"
       ],
-      "first_seen_at": "2026-08-21T11:29:31+02:00",
-      "last_seen_at": "2026-08-21T11:29:31+02:00"
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4454187717",
+      "title": "Senior Mechanical Engineer",
+      "company": "Hamamatsu Photonics A/S",
+      "location": "Birkerød, Capital Region of Denmark, Denmark",
+      "posted_at": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4454187717",
+      "search_queries": [
+        "LCA",
+        "product sustainability"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4455674600",
+      "title": "Salgsassistent med teknisk forståelse",
+      "company": "Lindab Danmark",
+      "location": "Hvidovre, Capital Region of Denmark, Denmark",
+      "posted_at": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4455674600",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4289784214",
+      "title": "Projektleder for Bro og konstruktionsprojekter",
+      "company": "Jacobs",
+      "location": null,
+      "posted_at": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4289784214",
+      "search_queries": [
+        "sustainability manager"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4456792967",
+      "title": "Production Operations Assistant - Full-Time",
+      "company": "AERIS Cocktails",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "posted_at": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4456792967",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4456464960",
+      "title": "PhD scholarship within Polysaccharide sulfatases for marine biomass applications - DTU Bioengineering",
+      "company": "DTU - Technical University of Denmark",
+      "location": "Kongens Lyngby, Capital Region of Denmark, Denmark",
+      "posted_at": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4456464960",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4456703769",
+      "title": "Ph.d.-stipendiat i sundhedstjenesteforskning og tværsektorielle patientforløb for socialt udsatte borgere",
+      "company": "Aalborg University",
+      "location": "Aalborg, North Denmark Region, Denmark",
+      "posted_at": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4456703769",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4456755791",
+      "title": "Mechanical Design Engineer",
+      "company": "iO Associates",
+      "location": null,
+      "posted_at": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4456755791",
+      "search_queries": [
+        "product sustainability"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4457310080",
+      "title": "Management Consultant",
+      "company": "Equa",
+      "location": null,
+      "posted_at": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4457310080",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4437095021",
+      "title": "Head of Test Development Engineering",
+      "company": "Coloplast",
+      "location": "Humlebæk, Capital Region of Denmark, Denmark",
+      "posted_at": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4437095021",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4453892652",
+      "title": "Founding backend engineer",
+      "company": "Dealflow - Invoicing",
+      "location": null,
+      "posted_at": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4453892652",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4446754045",
+      "title": "Forward-Deployed Engineer",
+      "company": "Everfield",
+      "location": null,
+      "posted_at": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4446754045",
+      "search_queries": [
+        "ESG"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4419436713",
+      "title": "Field Application Engineer",
+      "company": "Arrow Electronics",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "posted_at": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4419436713",
+      "search_queries": [
+        "product sustainability"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4454125002",
+      "title": "Engineering Manager",
+      "company": "Vickerstock",
+      "location": "Esbjerg Municipality, Region of Southern Denmark, Denmark",
+      "posted_at": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4454125002",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4456724932",
+      "title": "Customer Support Standard",
+      "company": "Alfa Laval",
+      "location": "Kolding, Region of Southern Denmark, Denmark",
+      "posted_at": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4456724932",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4457092732",
+      "title": "Bliv Social og sundhedshjælperelev eller Social og sundhedsassistentelev i Lejre kommune",
+      "company": "Lejre Kommune",
+      "location": "Lejre, Region Zealand, Denmark",
+      "posted_at": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4457092732",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4455699221",
+      "title": "Bliv analytiker til virksomhedsanalyse med fokus på regnskabs- og kreditvurdering",
+      "company": "Nykredit",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "posted_at": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4455699221",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4456753849",
+      "title": "Ansvarlig for kunderådgivning (kunderådgiver)",
+      "company": "Clever",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "posted_at": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4456753849",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-08-21T11:39:38+02:00",
+      "last_seen_at": "2026-08-21T11:39:38+02:00"
     }
   ]
 }
