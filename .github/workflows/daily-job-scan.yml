@@ -1,0 +1,49 @@
+name: Daily job scan
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "45 6 * * *"
+      timezone: "Europe/Copenhagen"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-job-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run unit test
+        run: pytest -q
+
+      - name: Run scanner
+        run: python scanner.py
+
+      - name: Commit updated feed and history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/latest.json data/seen_jobs.json data/history/
+          if git diff --cached --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "chore: update daily job feed"
+            git push
+          fi
