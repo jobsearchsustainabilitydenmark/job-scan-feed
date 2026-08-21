@@ -35,6 +35,6 @@
     "keep_days": 180
   },
   "controls": {
-    "expected_linkedin_job_ids": ["4456487107"]
+    "expected_linkedin_job_ids": []
   }
 }
