@@ -2,6 +2,10 @@ name: Daily job scan
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/**"
   schedule:
     - cron: "45 6 * * *"
       timezone: "Europe/Copenhagen"
