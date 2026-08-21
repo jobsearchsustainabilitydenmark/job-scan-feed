@@ -35,7 +35,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run unit test
-        run: pytest -q
+        run: PYTHONPATH=. python -m pytest -q
 
       - name: Run scanner
         run: python scanner.py
