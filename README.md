@@ -34,3 +34,4 @@ Edit `config.json` to change search terms, location, time window, overlap and re
 - JobSpy uses public job-board endpoints/scraping rather than an official LinkedIn Jobs API, so LinkedIn can change or rate-limit access.
 - Jobindex's public search page currently embeds structured result data; the scanner parses that data rather than opening every job advert.
 - The scanner performs **discovery**, not final suitability assessment. ChatGPT should score and optionally verify only the strongest new matches.
+- Code/config pushes on `main` trigger a scan; scanner-generated changes under `data/**` do not retrigger the workflow.
