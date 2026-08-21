@@ -22,8 +22,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - name: Check out repository
+      - name: Check out latest main
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Refresh latest main
+        run: git pull --ff-only origin main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -49,5 +55,5 @@ jobs:
             echo "No data changes to commit"
           else
             git commit -m "chore: update daily job feed"
-            git push
+            git push origin main
           fi
