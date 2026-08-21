@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T11:26:26+02:00",
+  "generated_at": "2026-08-21T11:29:31+02:00",
   "scan_window_hours": 30,
   "sources": {
     "jobindex": {
@@ -12,14 +12,14 @@
     "linkedin": {
       "status": "ok",
       "queries_ok": 8,
-      "raw_results": 191,
+      "raw_results": 193,
       "unique_results": 86,
       "errors": []
     }
   },
   "counts": {
     "raw_unique_jobs_seen_this_run": 239,
-    "new_jobs": 12
+    "new_jobs": 5
   },
   "controls": {
     "expected_linkedin_job_ids": [
@@ -33,186 +33,78 @@
   "new_jobs": [
     {
       "source": "jobindex",
-      "source_id": "h1691416",
-      "title": "Daglig leder til Center for Botilbud og Beskæftigelse",
-      "company": "Halsnæs Kommune",
-      "location": "Frederiksværk",
+      "source_id": "h1691418",
+      "title": "Financial Assistant",
+      "company": "KMC",
+      "location": "Brande og mulighed for hjemmearbejde",
       "posted_at": "2026-08-21",
-      "deadline": "2026-09-10",
-      "url": "https://www.jobindex.dk/jobannonce/h1691416",
+      "deadline": "2026-09-14",
+      "url": "https://www.jobindex.dk/jobannonce/h1691418",
       "search_queries": [
         "bæredygtighed"
       ],
-      "first_seen_at": "2026-08-21T11:26:26+02:00",
-      "last_seen_at": "2026-08-21T11:26:26+02:00"
+      "first_seen_at": "2026-08-21T11:29:31+02:00",
+      "last_seen_at": "2026-08-21T11:29:31+02:00"
     },
     {
       "source": "linkedin",
-      "source_id": "4456473777",
-      "title": "Project Manager",
-      "company": "ANDRITZ",
-      "location": "Esbjerg, Region of Southern Denmark, Denmark",
-      "posted_at": "2026-08-20",
+      "source_id": "4456743478",
+      "title": "Rail Leader - Sweden",
+      "company": "Arup",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "posted_at": null,
       "deadline": null,
-      "url": "https://www.linkedin.com/jobs/view/4456473777",
+      "url": "https://www.linkedin.com/jobs/view/4456743478",
       "search_queries": [
         "decarbonisation"
       ],
-      "first_seen_at": "2026-08-21T11:26:26+02:00",
-      "last_seen_at": "2026-08-21T11:26:26+02:00"
+      "first_seen_at": "2026-08-21T11:29:31+02:00",
+      "last_seen_at": "2026-08-21T11:29:31+02:00"
     },
     {
       "source": "linkedin",
-      "source_id": "4455497345",
-      "title": "Engageret og læringsparat jurist søges til Område for Bygninger i Klima- Miljø- og Teknikforvaltningen",
-      "company": "Københavns Kommune",
-      "location": "Copenhagen, Capital Region of Denmark, Denmark",
-      "posted_at": "2026-08-20",
-      "deadline": null,
-      "url": "https://www.linkedin.com/jobs/view/4455497345",
-      "search_queries": [
-        "ESG"
-      ],
-      "first_seen_at": "2026-08-21T11:26:26+02:00",
-      "last_seen_at": "2026-08-21T11:26:26+02:00"
-    },
-    {
-      "source": "linkedin",
-      "source_id": "4426837976",
-      "title": "Staff Design Engineer",
-      "company": "Miro",
-      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "source_id": "4446809992",
+      "title": "Procurement Specialist",
+      "company": "Ball Corporation",
+      "location": "Fredericia, Region of Southern Denmark, Denmark",
       "posted_at": null,
       "deadline": null,
-      "url": "https://www.linkedin.com/jobs/view/4426837976",
+      "url": "https://www.linkedin.com/jobs/view/4446809992",
       "search_queries": [
-        "ESG"
+        "circularity"
       ],
-      "first_seen_at": "2026-08-21T11:26:26+02:00",
-      "last_seen_at": "2026-08-21T11:26:26+02:00"
+      "first_seen_at": "2026-08-21T11:29:31+02:00",
+      "last_seen_at": "2026-08-21T11:29:31+02:00"
     },
     {
       "source": "linkedin",
-      "source_id": "4457001011",
-      "title": "Senior Specialist, Project Excellence",
-      "company": "Vestas",
-      "location": "Aarhus Municipality, Central Denmark Region, Denmark",
+      "source_id": "4456732294",
+      "title": "Junior Portefølje Business Partner til ledelsesrapportering og porteføljestyring i Eltransmission",
+      "company": "Energinet",
+      "location": "Fredericia, Region of Southern Denmark, Denmark",
       "posted_at": null,
       "deadline": null,
-      "url": "https://www.linkedin.com/jobs/view/4457001011",
+      "url": "https://www.linkedin.com/jobs/view/4456732294",
       "search_queries": [
-        "climate",
-        "product sustainability"
+        "decarbonisation"
       ],
-      "first_seen_at": "2026-08-21T11:26:26+02:00",
-      "last_seen_at": "2026-08-21T11:26:26+02:00"
+      "first_seen_at": "2026-08-21T11:29:31+02:00",
+      "last_seen_at": "2026-08-21T11:29:31+02:00"
     },
     {
       "source": "linkedin",
-      "source_id": "4456333095",
-      "title": "Scientific Fundraiser: DTU Centre for Absolute Sustainability - DTU Sustain",
-      "company": "DTU - Technical University of Denmark",
-      "location": "Kongens Lyngby, Capital Region of Denmark, Denmark",
+      "source_id": "4454125557",
+      "title": "Early Engagement Engineer",
+      "company": "NOV",
+      "location": "Capital Region of Denmark, Denmark",
       "posted_at": null,
       "deadline": null,
-      "url": "https://www.linkedin.com/jobs/view/4456333095",
+      "url": "https://www.linkedin.com/jobs/view/4454125557",
       "search_queries": [
-        "decarbonisation",
-        "sustainability"
+        "decarbonisation"
       ],
-      "first_seen_at": "2026-08-21T11:26:26+02:00",
-      "last_seen_at": "2026-08-21T11:26:26+02:00"
-    },
-    {
-      "source": "linkedin",
-      "source_id": "4456718258",
-      "title": "Næstkommanderende til Miljøskibet GUNNAR THORSON – 3. Eskadre - Frederikshavn",
-      "company": "Forsvaret",
-      "location": "North Denmark Region, Denmark",
-      "posted_at": null,
-      "deadline": null,
-      "url": "https://www.linkedin.com/jobs/view/4456718258",
-      "search_queries": [
-        "climate"
-      ],
-      "first_seen_at": "2026-08-21T11:26:26+02:00",
-      "last_seen_at": "2026-08-21T11:26:26+02:00"
-    },
-    {
-      "source": "linkedin",
-      "source_id": "4454138304",
-      "title": "Kundeservicemedarbejder - Fuldtid",
-      "company": "Oscar Mobility",
-      "location": "Aarhus, Central Denmark Region, Denmark",
-      "posted_at": null,
-      "deadline": null,
-      "url": "https://www.linkedin.com/jobs/view/4454138304",
-      "search_queries": [
-        "climate"
-      ],
-      "first_seen_at": "2026-08-21T11:26:26+02:00",
-      "last_seen_at": "2026-08-21T11:26:26+02:00"
-    },
-    {
-      "source": "linkedin",
-      "source_id": "4457301450",
-      "title": "Junior Intraday Power Trader",
-      "company": "Nitor Energy",
-      "location": "Aarhus, Central Denmark Region, Denmark",
-      "posted_at": null,
-      "deadline": null,
-      "url": "https://www.linkedin.com/jobs/view/4457301450",
-      "search_queries": [
-        "climate"
-      ],
-      "first_seen_at": "2026-08-21T11:26:26+02:00",
-      "last_seen_at": "2026-08-21T11:26:26+02:00"
-    },
-    {
-      "source": "linkedin",
-      "source_id": "4456792379",
-      "title": "Junior Facility Manager",
-      "company": "Scania Danmark",
-      "location": "Ishøj Municipality, Capital Region of Denmark, Denmark",
-      "posted_at": null,
-      "deadline": null,
-      "url": "https://www.linkedin.com/jobs/view/4456792379",
-      "search_queries": [
-        "sustainability manager"
-      ],
-      "first_seen_at": "2026-08-21T11:26:26+02:00",
-      "last_seen_at": "2026-08-21T11:26:26+02:00"
-    },
-    {
-      "source": "linkedin",
-      "source_id": "4456719310",
-      "title": "Data & Analytics Engineer for NAM Trading Quants",
-      "company": "Nordea",
-      "location": "Copenhagen, Capital Region of Denmark, Denmark",
-      "posted_at": null,
-      "deadline": null,
-      "url": "https://www.linkedin.com/jobs/view/4456719310",
-      "search_queries": [
-        "ESG"
-      ],
-      "first_seen_at": "2026-08-21T11:26:26+02:00",
-      "last_seen_at": "2026-08-21T11:26:26+02:00"
-    },
-    {
-      "source": "linkedin",
-      "source_id": "4456705235",
-      "title": "Contract Manager",
-      "company": "EDF power solutions",
-      "location": "Brøndby Municipality, Capital Region of Denmark, Denmark",
-      "posted_at": null,
-      "deadline": null,
-      "url": "https://www.linkedin.com/jobs/view/4456705235",
-      "search_queries": [
-        "decarbonisation",
-        "sustainability manager"
-      ],
-      "first_seen_at": "2026-08-21T11:26:26+02:00",
-      "last_seen_at": "2026-08-21T11:26:26+02:00"
+      "first_seen_at": "2026-08-21T11:29:31+02:00",
+      "last_seen_at": "2026-08-21T11:29:31+02:00"
     }
   ]
 }
