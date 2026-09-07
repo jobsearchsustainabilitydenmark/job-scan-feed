@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "source": "ChatGPT shortlist master",
+  "description": "Persistent historical shortlist for daily sustainability job scans.",
+  "jobs": [],
+  "test": {
+    "created_at": "2026-09-07",
+    "purpose": "Verify ChatGPT can write and subsequently update the shortlist master in GitHub."
+  }
+}
