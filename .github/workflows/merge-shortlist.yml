@@ -84,7 +84,7 @@ jobs:
         run: |
           git config user.name 'job-scan-bot'
           git config user.email 'job-scan-bot@users.noreply.github.com'
-          git add data/shortlist/job_shortlist_master.json data/shortlist/job_shortlist_master.csv data/shortlist/pending
+          git add -A data/shortlist
           if git diff --cached --quiet; then
             echo 'No changes to commit'
           else
