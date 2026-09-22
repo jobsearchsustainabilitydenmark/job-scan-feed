@@ -5045,9 +5045,9 @@
       "company": "Dow Jones",
       "location": "Odense, Region of Southern Denmark, Denmark",
       "url": "https://www.linkedin.com/jobs/view/4457565810",
-      "posted_at": "2026-08-22",
+      "posted_at": null,
       "first_seen_at": "2026-08-23T07:58:32+02:00",
-      "last_seen_at": "2026-08-23T07:58:32+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4447536490": {
       "source": "linkedin",
@@ -6805,9 +6805,9 @@
       "company": "Nordic RCC",
       "location": "Copenhagen",
       "url": "https://www.jobindex.dk/jobannonce/h1692030",
-      "posted_at": "2026-08-25",
+      "posted_at": "2026-09-22",
       "first_seen_at": "2026-08-25T08:01:54+02:00",
-      "last_seen_at": "2026-08-28T23:21:19+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "jobindex:h1691997": {
       "source": "jobindex",
@@ -6818,7 +6818,7 @@
       "url": "https://www.jobindex.dk/jobannonce/h1691997",
       "posted_at": "2026-09-21",
       "first_seen_at": "2026-08-25T08:01:54+02:00",
-      "last_seen_at": "2026-09-21T06:55:57+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "jobindex:h1691943": {
       "source": "jobindex",
@@ -8125,9 +8125,9 @@
       "company": "Hejmdal Privathospital A/S",
       "location": "Odense C",
       "url": "https://www.jobindex.dk/jobannonce/h1692258",
-      "posted_at": "2026-08-25",
+      "posted_at": "2026-09-22",
       "first_seen_at": "2026-08-26T08:04:05+02:00",
-      "last_seen_at": "2026-08-26T08:04:05+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "jobindex:h1692254": {
       "source": "jobindex",
@@ -8191,9 +8191,9 @@
       "company": "NG Nordic Denmark A/S",
       "location": "Nyborg",
       "url": "https://www.jobindex.dk/jobannonce/h1692141",
-      "posted_at": "2026-08-25",
+      "posted_at": "2026-09-22",
       "first_seen_at": "2026-08-26T08:04:05+02:00",
-      "last_seen_at": "2026-08-28T23:21:19+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "jobindex:h1692123": {
       "source": "jobindex",
@@ -8224,9 +8224,9 @@
       "company": "Forsvaret",
       "location": "Gudhjem",
       "url": "https://www.jobindex.dk/jobannonce/h1692062",
-      "posted_at": "2026-08-25",
+      "posted_at": "2026-09-22",
       "first_seen_at": "2026-08-26T08:04:05+02:00",
-      "last_seen_at": "2026-08-26T08:04:05+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "jobindex:h1692059": {
       "source": "jobindex",
@@ -8477,9 +8477,9 @@
       "company": "Grundfos A/S",
       "location": "Bjerringbro, Aalestrup eller Hobro",
       "url": "https://www.jobindex.dk/jobannonce/h1692064",
-      "posted_at": "2026-08-25",
+      "posted_at": "2026-09-22",
       "first_seen_at": "2026-08-26T08:04:05+02:00",
-      "last_seen_at": "2026-08-28T23:21:19+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "jobindex:r13962752": {
       "source": "jobindex",
@@ -8565,9 +8565,9 @@
       "company": "Forskningsenheden for Almen Praksis",
       "location": "København K",
       "url": "https://www.jobindex.dk/jobannonce/h1692364",
-      "posted_at": "2026-08-25",
+      "posted_at": "2026-09-22",
       "first_seen_at": "2026-08-26T08:04:05+02:00",
-      "last_seen_at": "2026-08-28T23:21:19+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "jobindex:r13962594": {
       "source": "jobindex",
@@ -11262,7 +11262,7 @@
       "url": "https://www.linkedin.com/jobs/view/4459861194",
       "posted_at": null,
       "first_seen_at": "2026-08-28T23:21:19+02:00",
-      "last_seen_at": "2026-09-21T06:55:57+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4455301347": {
       "source": "linkedin",
@@ -13957,7 +13957,7 @@
       "url": "https://www.linkedin.com/jobs/view/4434261604",
       "posted_at": null,
       "first_seen_at": "2026-08-31T06:53:00+02:00",
-      "last_seen_at": "2026-08-31T06:53:00+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4459744293": {
       "source": "linkedin",
@@ -14001,7 +14001,7 @@
       "url": "https://www.linkedin.com/jobs/view/4393584570",
       "posted_at": null,
       "first_seen_at": "2026-08-31T06:53:00+02:00",
-      "last_seen_at": "2026-08-31T06:53:00+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4420139695": {
       "source": "linkedin",
@@ -14089,7 +14089,7 @@
       "url": "https://www.linkedin.com/jobs/view/4442503125",
       "posted_at": null,
       "first_seen_at": "2026-08-31T06:53:00+02:00",
-      "last_seen_at": "2026-08-31T06:53:00+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4442507004": {
       "source": "linkedin",
@@ -14417,9 +14417,9 @@
       "company": "Kurt Poulsen ApS",
       "location": "Svendborg",
       "url": "https://www.jobindex.dk/jobannonce/h1677482",
-      "posted_at": "2026-09-01",
+      "posted_at": "2026-09-22",
       "first_seen_at": "2026-09-01T06:53:55+02:00",
-      "last_seen_at": "2026-09-02T06:54:15+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "jobindex:r13973027": {
       "source": "jobindex",
@@ -15354,7 +15354,7 @@
       "url": "https://www.linkedin.com/jobs/view/4451521081",
       "posted_at": null,
       "first_seen_at": "2026-09-01T06:53:55+02:00",
-      "last_seen_at": "2026-09-01T06:53:55+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4451521082": {
       "source": "linkedin",
@@ -15365,7 +15365,7 @@
       "url": "https://www.linkedin.com/jobs/view/4451521082",
       "posted_at": null,
       "first_seen_at": "2026-09-01T06:53:55+02:00",
-      "last_seen_at": "2026-09-01T06:53:55+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4461255820": {
       "source": "linkedin",
@@ -15563,7 +15563,7 @@
       "url": "https://www.linkedin.com/jobs/view/4461223653",
       "posted_at": null,
       "first_seen_at": "2026-09-01T06:53:55+02:00",
-      "last_seen_at": "2026-09-01T06:53:55+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4461200616": {
       "source": "linkedin",
@@ -15640,7 +15640,7 @@
       "url": "https://www.linkedin.com/jobs/view/4434455864",
       "posted_at": null,
       "first_seen_at": "2026-09-01T06:53:55+02:00",
-      "last_seen_at": "2026-09-01T06:53:55+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4459220504": {
       "source": "linkedin",
@@ -15695,7 +15695,7 @@
       "url": "https://www.linkedin.com/jobs/view/4450969014",
       "posted_at": null,
       "first_seen_at": "2026-09-01T06:53:55+02:00",
-      "last_seen_at": "2026-09-01T06:53:55+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4460003145": {
       "source": "linkedin",
@@ -15981,7 +15981,7 @@
       "url": "https://www.linkedin.com/jobs/view/4460012198",
       "posted_at": null,
       "first_seen_at": "2026-09-01T06:53:55+02:00",
-      "last_seen_at": "2026-09-01T06:53:55+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4460025215": {
       "source": "linkedin",
@@ -17862,7 +17862,7 @@
       "url": "https://www.linkedin.com/jobs/view/4424253107",
       "posted_at": null,
       "first_seen_at": "2026-09-02T06:54:15+02:00",
-      "last_seen_at": "2026-09-21T06:55:57+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4461799212": {
       "source": "linkedin",
@@ -23151,9 +23151,9 @@
       "company": "Copenhagen Infrastructure Partners",
       "location": "Copenhagen, Capital Region of Denmark, Denmark",
       "url": "https://www.linkedin.com/jobs/view/4454550440",
-      "posted_at": "2026-09-18",
+      "posted_at": null,
       "first_seen_at": "2026-09-05T06:52:55+02:00",
-      "last_seen_at": "2026-09-19T06:52:59+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4452985134": {
       "source": "linkedin",
@@ -33306,7 +33306,7 @@
       "url": "https://www.jobindex.dk/jobannonce/h1697968",
       "posted_at": "2026-09-20",
       "first_seen_at": "2026-09-12T06:53:34+02:00",
-      "last_seen_at": "2026-09-21T06:55:57+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "jobindex:h1697952": {
       "source": "jobindex",
@@ -37374,9 +37374,9 @@
       "company": "Eltwin Group",
       "location": "Aarhus Municipality, Central Denmark Region, Denmark",
       "url": "https://www.linkedin.com/jobs/view/4464773518",
-      "posted_at": null,
+      "posted_at": "2026-09-21",
       "first_seen_at": "2026-09-15T06:56:22+02:00",
-      "last_seen_at": "2026-09-15T06:56:22+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4465214546": {
       "source": "linkedin",
@@ -40940,7 +40940,7 @@
       "url": "https://www.linkedin.com/jobs/view/4459290120",
       "posted_at": null,
       "first_seen_at": "2026-09-17T06:55:54+02:00",
-      "last_seen_at": "2026-09-17T06:55:54+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4467992057": {
       "source": "linkedin",
@@ -41985,7 +41985,7 @@
       "url": "https://www.linkedin.com/jobs/view/4468382463",
       "posted_at": null,
       "first_seen_at": "2026-09-18T06:54:00+02:00",
-      "last_seen_at": "2026-09-18T06:54:00+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4468395401": {
       "source": "linkedin",
@@ -43415,7 +43415,7 @@
       "url": "https://www.jobindex.dk/jobannonce/h1699761",
       "posted_at": "2026-09-19",
       "first_seen_at": "2026-09-19T06:52:59+02:00",
-      "last_seen_at": "2026-09-21T06:55:57+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "jobindex:h1699925": {
       "source": "jobindex",
@@ -44053,7 +44053,7 @@
       "url": "https://www.linkedin.com/jobs/view/4469112963",
       "posted_at": null,
       "first_seen_at": "2026-09-19T06:52:59+02:00",
-      "last_seen_at": "2026-09-19T06:52:59+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4469117454": {
       "source": "linkedin",
@@ -44064,7 +44064,7 @@
       "url": "https://www.linkedin.com/jobs/view/4469117454",
       "posted_at": null,
       "first_seen_at": "2026-09-19T06:52:59+02:00",
-      "last_seen_at": "2026-09-19T06:52:59+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4447388719": {
       "source": "linkedin",
@@ -44614,7 +44614,7 @@
       "url": "https://www.linkedin.com/jobs/view/4466067405",
       "posted_at": null,
       "first_seen_at": "2026-09-19T06:52:59+02:00",
-      "last_seen_at": "2026-09-19T06:52:59+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4466383808": {
       "source": "linkedin",
@@ -44625,7 +44625,7 @@
       "url": "https://www.linkedin.com/jobs/view/4466383808",
       "posted_at": null,
       "first_seen_at": "2026-09-19T06:52:59+02:00",
-      "last_seen_at": "2026-09-19T06:52:59+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4469120340": {
       "source": "linkedin",
@@ -44867,7 +44867,7 @@
       "url": "https://www.jobindex.dk/jobannonce/h1697781",
       "posted_at": "2026-09-20",
       "first_seen_at": "2026-09-20T06:54:00+02:00",
-      "last_seen_at": "2026-09-21T06:55:57+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "jobindex:r14005952": {
       "source": "jobindex",
@@ -44878,7 +44878,7 @@
       "url": "https://www.jobindex.dk/jobannonce/r14005952",
       "posted_at": "2026-09-19",
       "first_seen_at": "2026-09-20T06:54:00+02:00",
-      "last_seen_at": "2026-09-21T06:55:57+02:00"
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     },
     "linkedin:4466941223": {
       "source": "linkedin",
@@ -46045,6 +46045,1799 @@
       "posted_at": null,
       "first_seen_at": "2026-09-21T06:55:57+02:00",
       "last_seen_at": "2026-09-21T06:55:57+02:00"
+    },
+    "jobindex:h1700524": {
+      "source": "jobindex",
+      "source_id": "h1700524",
+      "title": "VVS-montør søges",
+      "company": "ABC Pavilloner A/S",
+      "location": "Engesvang",
+      "url": "https://www.jobindex.dk/jobannonce/h1700524",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700520": {
+      "source": "jobindex",
+      "source_id": "h1700520",
+      "title": "Produktionsmedarbejder/tømrere søges",
+      "company": "ABC Pavilloner A/S",
+      "location": "Engesvang",
+      "url": "https://www.jobindex.dk/jobannonce/h1700520",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700513": {
+      "source": "jobindex",
+      "source_id": "h1700513",
+      "title": "Forsyningsoperatørelev",
+      "company": "AURA A/S",
+      "location": "Odder",
+      "url": "https://www.jobindex.dk/jobannonce/h1700513",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700512": {
+      "source": "jobindex",
+      "source_id": "h1700512",
+      "title": "Rejsemontører søges",
+      "company": "ABC Pavilloner A/S",
+      "location": "Engesvang",
+      "url": "https://www.jobindex.dk/jobannonce/h1700512",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700507": {
+      "source": "jobindex",
+      "source_id": "h1700507",
+      "title": "Maler søges",
+      "company": "ABC Pavilloner A/S",
+      "location": "Engesvang",
+      "url": "https://www.jobindex.dk/jobannonce/h1700507",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700502": {
+      "source": "jobindex",
+      "source_id": "h1700502",
+      "title": "Elektrikere søges",
+      "company": "ABC Pavilloner A/S",
+      "location": "Engesvang",
+      "url": "https://www.jobindex.dk/jobannonce/h1700502",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700496": {
+      "source": "jobindex",
+      "source_id": "h1700496",
+      "title": "Contract Manager med juridisk erfaring og flair for projektledelse",
+      "company": "Banedanmark",
+      "location": "København V",
+      "url": "https://www.jobindex.dk/jobannonce/h1700496",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700443": {
+      "source": "jobindex",
+      "source_id": "h1700443",
+      "title": "Maskinmester",
+      "company": "AffaldPlus",
+      "location": "Næstved",
+      "url": "https://www.jobindex.dk/jobannonce/h1700443",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700427": {
+      "source": "jobindex",
+      "source_id": "h1700427",
+      "title": "Værtinde til virksomhedskantine – med blik for værtskab og den gode oplevelse",
+      "company": "Gastronomiet",
+      "location": "Glostrup eller Valby",
+      "url": "https://www.jobindex.dk/jobannonce/h1700427",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700420": {
+      "source": "jobindex",
+      "source_id": "h1700420",
+      "title": "Intern revisionschef til Lån & Spar Bank",
+      "company": "Lån & Spar Bank",
+      "location": "København V",
+      "url": "https://www.jobindex.dk/jobannonce/h1700420",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700396": {
+      "source": "jobindex",
+      "source_id": "h1700396",
+      "title": "Presse-, kommunikations- og fundraisingansvarlig til Bryd Tavsheden",
+      "company": "Bryd Tavsheden",
+      "location": "København K",
+      "url": "https://www.jobindex.dk/jobannonce/h1700396",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700395": {
+      "source": "jobindex",
+      "source_id": "h1700395",
+      "title": "Medarbejder til Affald og Genbrug",
+      "company": "Slagelse Kommune",
+      "location": "Korsør og mulighed for hjemmearbejde",
+      "url": "https://www.jobindex.dk/jobannonce/h1700395",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700377": {
+      "source": "jobindex",
+      "source_id": "h1700377",
+      "title": "Maskinfører til Deponi hos Nordværk",
+      "company": "Nordværk I/S",
+      "location": "Vodskov",
+      "url": "https://www.jobindex.dk/jobannonce/h1700377",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700376": {
+      "source": "jobindex",
+      "source_id": "h1700376",
+      "title": "Driftsmedarbejder til Affald og Genbrug",
+      "company": "Slagelse Kommune",
+      "location": "Korsør og mulighed for hjemmearbejde",
+      "url": "https://www.jobindex.dk/jobannonce/h1700376",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700530": {
+      "source": "jobindex",
+      "source_id": "h1700530",
+      "title": "Team Lead til Property Management",
+      "company": "Newsec Property Asset Management Denmark A/S",
+      "location": "Kgs. Lyngby",
+      "url": "https://www.jobindex.dk/jobannonce/h1700530",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700517": {
+      "source": "jobindex",
+      "source_id": "h1700517",
+      "title": "Distriktschef til Netto - Aarhus-området",
+      "company": "Salling Group",
+      "location": null,
+      "url": "https://www.jobindex.dk/jobannonce/h1700517",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700497": {
+      "source": "jobindex",
+      "source_id": "h1700497",
+      "title": "Butikschef i Netto - til Aalborg-området",
+      "company": "Salling Group",
+      "location": null,
+      "url": "https://www.jobindex.dk/jobannonce/h1700497",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700491": {
+      "source": "jobindex",
+      "source_id": "h1700491",
+      "title": "Elektriker til Scandlines",
+      "company": "Scandlines",
+      "location": null,
+      "url": "https://www.jobindex.dk/jobannonce/h1700491",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700448": {
+      "source": "jobindex",
+      "source_id": "h1700448",
+      "title": "To laboratorieteknikere til Section for Biologics Engineering ved DTU Bioengineering",
+      "company": "DTU, Danmarks Tekniske Universitet",
+      "location": "Kgs. Lyngby",
+      "url": "https://www.jobindex.dk/jobannonce/h1700448",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700434": {
+      "source": "jobindex",
+      "source_id": "h1700434",
+      "title": "Har du flair for ledelsesbetjening så er du måske vores nye programkonsulent (barselsvikariat)?",
+      "company": "Zealand – Sjællands Erhvervsakademi S/I",
+      "location": "Næstved",
+      "url": "https://www.jobindex.dk/jobannonce/h1700434",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700429": {
+      "source": "jobindex",
+      "source_id": "h1700429",
+      "title": "Juridisk medarbejder søges til Udbud og Entreprise",
+      "company": "Aalborg Forsyning",
+      "location": "Vodskov",
+      "url": "https://www.jobindex.dk/jobannonce/h1700429",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700418": {
+      "source": "jobindex",
+      "source_id": "h1700418",
+      "title": "Bliv kok hos BESTSELLER – kreativt køkken, faglighed og god energi",
+      "company": "Compass Group Danmark A/S",
+      "location": "Brande",
+      "url": "https://www.jobindex.dk/jobannonce/h1700418",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700407": {
+      "source": "jobindex",
+      "source_id": "h1700407",
+      "title": "Daglig leder til Social Sundhed i Kronjylland",
+      "company": "Social Sundhed",
+      "location": "Randers NØ",
+      "url": "https://www.jobindex.dk/jobannonce/h1700407",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700393": {
+      "source": "jobindex",
+      "source_id": "h1700393",
+      "title": "Meyers søger Køkkenchef til spændende kantine i Kolding",
+      "company": "Meyers A/S",
+      "location": null,
+      "url": "https://www.jobindex.dk/jobannonce/h1700393",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700392": {
+      "source": "jobindex",
+      "source_id": "h1700392",
+      "title": "Kok eller cater til kantinen hos Novo i Måløv – bliv en del af et stærkt køkkenfællesskab",
+      "company": "Compass Group Danmark A/S",
+      "location": "Måløv",
+      "url": "https://www.jobindex.dk/jobannonce/h1700392",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700391": {
+      "source": "jobindex",
+      "source_id": "h1700391",
+      "title": "Assisterende køkkenchef til Nykredit – vær med til at gå forrest fagligt og menneskeligt i et ambitiøst køkken",
+      "company": "Compass Group Danmark A/S",
+      "location": "Nordhavn",
+      "url": "https://www.jobindex.dk/jobannonce/h1700391",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14008073": {
+      "source": "jobindex",
+      "source_id": "r14008073",
+      "title": "1. assistent - Bramming",
+      "company": "Salling Group",
+      "location": "6740 Bramming",
+      "url": "https://www.jobindex.dk/jobannonce/r14008073",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14008080": {
+      "source": "jobindex",
+      "source_id": "r14008080",
+      "title": "1. assistent - Vejle",
+      "company": "Salling Group",
+      "location": "7100 Vejle",
+      "url": "https://www.jobindex.dk/jobannonce/r14008080",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14008072": {
+      "source": "jobindex",
+      "source_id": "r14008072",
+      "title": "Butiksassistent under 18 år - Ishøj",
+      "company": "Salling Group",
+      "location": "2635 Ishøj",
+      "url": "https://www.jobindex.dk/jobannonce/r14008072",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14008068": {
+      "source": "jobindex",
+      "source_id": "r14008068",
+      "title": "Butiksassistent under 18 år - København S",
+      "company": "Salling Group",
+      "location": "2300 København S",
+      "url": "https://www.jobindex.dk/jobannonce/r14008068",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14008067": {
+      "source": "jobindex",
+      "source_id": "r14008067",
+      "title": "Souschef - Juelsminde",
+      "company": "Salling Group",
+      "location": "7130 Juelsminde",
+      "url": "https://www.jobindex.dk/jobannonce/r14008067",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700358": {
+      "source": "jobindex",
+      "source_id": "h1700358",
+      "title": "Administrativ medarbejder søges til Agro Trade i Køge",
+      "company": "Agro Trade",
+      "location": "Køge",
+      "url": "https://www.jobindex.dk/jobannonce/h1700358",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700304": {
+      "source": "jobindex",
+      "source_id": "h1700304",
+      "title": "Kvalitetsassistent",
+      "company": "HIRTSHALS SEAFOOD A/S",
+      "location": "Hirtshals",
+      "url": "https://www.jobindex.dk/jobannonce/h1700304",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700300": {
+      "source": "jobindex",
+      "source_id": "h1700300",
+      "title": "Ernæringsassistent eller kok til produktionskøkkenet",
+      "company": "Herlev Kommune",
+      "location": "Herlev",
+      "url": "https://www.jobindex.dk/jobannonce/h1700300",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700275": {
+      "source": "jobindex",
+      "source_id": "h1700275",
+      "title": "Ecommerce kundesupporter",
+      "company": "Camfil A/S",
+      "location": "Brabrand",
+      "url": "https://www.jobindex.dk/jobannonce/h1700275",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700274": {
+      "source": "jobindex",
+      "source_id": "h1700274",
+      "title": "Vil du være med til at læsse Danmarks største spånplader?",
+      "company": "Kronospan ApS - Novopan Træindustri",
+      "location": "Ryomgård",
+      "url": "https://www.jobindex.dk/jobannonce/h1700274",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700246": {
+      "source": "jobindex",
+      "source_id": "h1700246",
+      "title": "Elektriker til Four FM i København",
+      "company": "Four FM, Filial af Four FM AB",
+      "location": null,
+      "url": "https://www.jobindex.dk/jobannonce/h1700246",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700117": {
+      "source": "jobindex",
+      "source_id": "h1700117",
+      "title": "Program Manager Operations",
+      "company": "West Pharmaceutical Services Danmark ApS",
+      "location": "Horsens and hybrid position",
+      "url": "https://www.jobindex.dk/jobannonce/h1700117",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700041": {
+      "source": "jobindex",
+      "source_id": "h1700041",
+      "title": "Project Procurement Manager",
+      "company": "ABB A/S",
+      "location": "Middelfart or Ballerup",
+      "url": "https://www.jobindex.dk/jobannonce/h1700041",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700066": {
+      "source": "jobindex",
+      "source_id": "h1700066",
+      "title": "Finance Business Partner- EMEA",
+      "company": "Topsoe",
+      "location": "Kongens Lyngby",
+      "url": "https://www.jobindex.dk/jobannonce/h1700066",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700035": {
+      "source": "jobindex",
+      "source_id": "h1700035",
+      "title": "Global Buying Graduate: Polish-speaking",
+      "company": "Trademark Textiles A/S",
+      "location": "Kolding",
+      "url": "https://www.jobindex.dk/jobannonce/h1700035",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14007590": {
+      "source": "jobindex",
+      "source_id": "r14007590",
+      "title": "Finance Manager Specialist, Sustainability Reporting",
+      "company": "LEGO System A/S",
+      "location": "1000-1499 København K, Billund",
+      "url": "https://www.jobindex.dk/jobannonce/r14007590",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14008010": {
+      "source": "jobindex",
+      "source_id": "r14008010",
+      "title": "Solution Architect",
+      "company": "Nilfisk-Advance Nordic A/S",
+      "location": "København",
+      "url": "https://www.jobindex.dk/jobannonce/r14008010",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14007733": {
+      "source": "jobindex",
+      "source_id": "r14007733",
+      "title": "Co-founder / B2B Climate Tech Startup",
+      "company": "Refine",
+      "location": "Aarhus",
+      "url": "https://www.jobindex.dk/jobannonce/r14007733",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14006430": {
+      "source": "jobindex",
+      "source_id": "r14006430",
+      "title": "Servitør/waiter hos Trasti & Trine i Alta",
+      "company": "Trasti & Trine As",
+      "location": null,
+      "url": "https://www.jobindex.dk/jobannonce/r14006430",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700519": {
+      "source": "jobindex",
+      "source_id": "h1700519",
+      "title": "Medarbejdere søges til produktion af medicinsk cannabis",
+      "company": "Idun Medica A/S",
+      "location": "Randers NØ",
+      "url": "https://www.jobindex.dk/jobannonce/h1700519",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700423": {
+      "source": "jobindex",
+      "source_id": "h1700423",
+      "title": "Projektleder til Grøn Trepart. Vær med til at forme fremtidens landskaber i Ringsted Kommune (3-årig stilling)",
+      "company": "Ringsted Kommune",
+      "location": "Ringsted",
+      "url": "https://www.jobindex.dk/jobannonce/h1700423",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700364": {
+      "source": "jobindex",
+      "source_id": "h1700364",
+      "title": "Seniorkonsulent til udvikling og modning af Energinets koncernfælles informationssikkerhedsledelsessystem (ISMS)",
+      "company": "Energinet",
+      "location": "Fredericia eller Ballerup",
+      "url": "https://www.jobindex.dk/jobannonce/h1700364",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700132": {
+      "source": "jobindex",
+      "source_id": "h1700132",
+      "title": "Generalist med tæft for økonomi og arbejde tæt på den politiske proces",
+      "company": "Banedanmark",
+      "location": "København V",
+      "url": "https://www.jobindex.dk/jobannonce/h1700132",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1699752": {
+      "source": "jobindex",
+      "source_id": "h1699752",
+      "title": "Undervisning og implementering af markedets stærkeste IT-løsninger til vintertjeneste",
+      "company": "Klimator DK ApS",
+      "location": "Odense SV",
+      "url": "https://www.jobindex.dk/jobannonce/h1699752",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700195": {
+      "source": "jobindex",
+      "source_id": "h1700195",
+      "title": "Afdelingsleder for Anlæg og Ejendomme",
+      "company": "Sorø Kommune",
+      "location": "Sorø",
+      "url": "https://www.jobindex.dk/jobannonce/h1700195",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14007172": {
+      "source": "jobindex",
+      "source_id": "r14007172",
+      "title": "Administrativ medarbejder til Park og Kirkegård med erfaring i QGIS, GIS, Kortinfo og kirkegårdssystemet Brandsoft",
+      "company": "Odense Kommune",
+      "location": "5000 Odense C",
+      "url": "https://www.jobindex.dk/jobannonce/r14007172",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14008017": {
+      "source": "jobindex",
+      "source_id": "r14008017",
+      "title": "Finance Manager til Klima, Miljø og Bæredygtighed",
+      "company": "Sweco Danmark A/S",
+      "location": "2300 København S, Aarhus",
+      "url": "https://www.jobindex.dk/jobannonce/r14008017",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14008018": {
+      "source": "jobindex",
+      "source_id": "r14008018",
+      "title": "Rekrutteringspartner til Klima, Miljø & Bæredygtighed, Infrastruktur og Energi",
+      "company": "Sweco Danmark A/S",
+      "location": "Aarhus",
+      "url": "https://www.jobindex.dk/jobannonce/r14008018",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14008023": {
+      "source": "jobindex",
+      "source_id": "r14008023",
+      "title": "Teamchef – Sweco Danmark",
+      "company": "Sweco Danmark A/S",
+      "location": "Danmark",
+      "url": "https://www.jobindex.dk/jobannonce/r14008023",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14006532": {
+      "source": "jobindex",
+      "source_id": "r14006532",
+      "title": "Gartner / dyrkningsmedarbejder søges til Valeos Pharma",
+      "company": "Valeos Pharma A/S",
+      "location": "4960 Holeby",
+      "url": "https://www.jobindex.dk/jobannonce/r14006532",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700526": {
+      "source": "jobindex",
+      "source_id": "h1700526",
+      "title": "Lead Consultant – Vulnerability Management",
+      "company": "Energinet",
+      "location": "Fredericia or Ballerup",
+      "url": "https://www.jobindex.dk/jobannonce/h1700526",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700522": {
+      "source": "jobindex",
+      "source_id": "h1700522",
+      "title": "Lead consultant - Information protection and Data security",
+      "company": "Energinet",
+      "location": "Fredericia or Ballerup",
+      "url": "https://www.jobindex.dk/jobannonce/h1700522",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700372": {
+      "source": "jobindex",
+      "source_id": "h1700372",
+      "title": "Long-term Advisor for Power Sector Modelling in Indonesia",
+      "company": "Klima-, Energi- og Forsyningsministeriet",
+      "location": null,
+      "url": "https://www.jobindex.dk/jobannonce/h1700372",
+      "posted_at": "2026-09-22",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700116": {
+      "source": "jobindex",
+      "source_id": "h1700116",
+      "title": "Lead S&I Coordinator – Railway Safety in the Signalling Programme",
+      "company": "Banedanmark",
+      "location": "Copenhagen",
+      "url": "https://www.jobindex.dk/jobannonce/h1700116",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700172": {
+      "source": "jobindex",
+      "source_id": "h1700172",
+      "title": "Senior Developer",
+      "company": "Gubra A/S",
+      "location": "Hørsholm",
+      "url": "https://www.jobindex.dk/jobannonce/h1700172",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700104": {
+      "source": "jobindex",
+      "source_id": "h1700104",
+      "title": "PhD scholarship for Electrochemical Direct Air Capture (e-DAC) and CO2 Conversion - DTU Energy",
+      "company": "DTU, Danmarks Tekniske Universitet",
+      "location": "Kgs. Lyngby",
+      "url": "https://www.jobindex.dk/jobannonce/h1700104",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700023": {
+      "source": "jobindex",
+      "source_id": "h1700023",
+      "title": "Senior Finance Business Partner til B2B - Kom tæt på forretningen og beslutningerne",
+      "company": "Norlys",
+      "location": "København S",
+      "url": "https://www.jobindex.dk/jobannonce/h1700023",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14007502": {
+      "source": "jobindex",
+      "source_id": "r14007502",
+      "title": "Post Doc position in transition metal catalysis and carbon capture",
+      "company": "Aarhus Universitet",
+      "location": "6500 Vojens",
+      "url": "https://www.jobindex.dk/jobannonce/r14007502",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14007503": {
+      "source": "jobindex",
+      "source_id": "r14007503",
+      "title": "Researcher (Tenure Track) in Marine Ecosystem Modelling",
+      "company": "Aarhus Universitet",
+      "location": "Aarhus",
+      "url": "https://www.jobindex.dk/jobannonce/r14007503",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14006806": {
+      "source": "jobindex",
+      "source_id": "r14006806",
+      "title": "Researcher (Tenure Track) in Marine Ecosystem Modelling",
+      "company": "Biodiversitet",
+      "location": "4000 Roskilde",
+      "url": "https://www.jobindex.dk/jobannonce/r14006806",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14006929": {
+      "source": "jobindex",
+      "source_id": "r14006929",
+      "title": "Professor in applied basin research and structural geology",
+      "company": "De Nationale Geologiske Undersøgelser for Danmark og Grønland (GEUS)",
+      "location": "1350 København K",
+      "url": "https://www.jobindex.dk/jobannonce/r14006929",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14006988": {
+      "source": "jobindex",
+      "source_id": "r14006988",
+      "title": "Tenure Track Assistant Professor or Associate Professor and Curator of Mammals",
+      "company": "KU – SCIENCE – SNM",
+      "location": "1123 København K",
+      "url": "https://www.jobindex.dk/jobannonce/r14006988",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14006941": {
+      "source": "jobindex",
+      "source_id": "r14006941",
+      "title": "Post Doc position in transition metal catalysis and carbon capture",
+      "company": "Natural Sciences - Institut for Kemi",
+      "location": "8000 Aarhus C",
+      "url": "https://www.jobindex.dk/jobannonce/r14006941",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700182": {
+      "source": "jobindex",
+      "source_id": "h1700182",
+      "title": "Innovation Specialist – Dairy & Ice-Cream",
+      "company": "Palsgaard A/S",
+      "location": "Juelsminde",
+      "url": "https://www.jobindex.dk/jobannonce/h1700182",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700243": {
+      "source": "jobindex",
+      "source_id": "h1700243",
+      "title": "Vil du være med til at sikre robusthed og beredskab i en samfundskritisk sektor?",
+      "company": "Trafikstyrelsen",
+      "location": "København V",
+      "url": "https://www.jobindex.dk/jobannonce/h1700243",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:h1700128": {
+      "source": "jobindex",
+      "source_id": "h1700128",
+      "title": "Studentermedhjælpere med lyst til at lære en masse og tage ansvar",
+      "company": "Motorstyrelsen",
+      "location": "Aalborg og mulighed for hjemmearbejde",
+      "url": "https://www.jobindex.dk/jobannonce/h1700128",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14007197": {
+      "source": "jobindex",
+      "source_id": "r14007197",
+      "title": "Tre administrative kolleger til Redux – kundebetjening, affaldsadministration og udvikling",
+      "company": "Kolding Kommune",
+      "location": "Kolding",
+      "url": "https://www.jobindex.dk/jobannonce/r14007197",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14007083": {
+      "source": "jobindex",
+      "source_id": "r14007083",
+      "title": "Category Controller (udbudsassistent) til Strategisk Indkøb i Region Midtjylland, Aarhus",
+      "company": "Region Midtjylland",
+      "location": "8200 Aarhus N",
+      "url": "https://www.jobindex.dk/jobannonce/r14007083",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14006619": {
+      "source": "jobindex",
+      "source_id": "r14006619",
+      "title": "vedligeholdelsestekniker",
+      "company": "Randstad A/S",
+      "location": "Kolding",
+      "url": "https://www.jobindex.dk/jobannonce/r14006619",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14006451": {
+      "source": "jobindex",
+      "source_id": "r14006451",
+      "title": "Vil du være med til at gøre en forskel?",
+      "company": "Havarikommissionen for Civil Luftfart og Jernbane",
+      "location": "4100 Ringsted",
+      "url": "https://www.jobindex.dk/jobannonce/r14006451",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14007619": {
+      "source": "jobindex",
+      "source_id": "r14007619",
+      "title": "Instruktorer til NBI Blok 3 og 4 i 2027",
+      "company": "KU – SCIENCE – NBI, Blegdamsvej",
+      "location": "2100 København Ø",
+      "url": "https://www.jobindex.dk/jobannonce/r14007619",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14006598": {
+      "source": "jobindex",
+      "source_id": "r14006598",
+      "title": "Engageret underviser til dansk på EUX Business med blik for praksis (vikar)",
+      "company": "Learnmark Horsens",
+      "location": "8700 Horsens",
+      "url": "https://www.jobindex.dk/jobannonce/r14006598",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "jobindex:r14006970": {
+      "source": "jobindex",
+      "source_id": "r14006970",
+      "title": "Rybners Handelsgymnasium HHX søger underviser",
+      "company": "Rybners",
+      "location": "6700 Esbjerg",
+      "url": "https://www.jobindex.dk/jobannonce/r14006970",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469862097": {
+      "source": "linkedin",
+      "source_id": "4469862097",
+      "title": "Project Manager – External Projects Focus",
+      "company": "Alfa Laval",
+      "location": "Søborg, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469862097",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467381307": {
+      "source": "linkedin",
+      "source_id": "4467381307",
+      "title": "Electrical Engineer til OMT - Odense Maritime Technology",
+      "company": "PeopleLink",
+      "location": "Region of Southern Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467381307",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469869548": {
+      "source": "linkedin",
+      "source_id": "4469869548",
+      "title": "Bæredygtighedsrådgiver",
+      "company": "JL Engineering",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469869548",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468787008": {
+      "source": "linkedin",
+      "source_id": "4468787008",
+      "title": "Sæt retning for fremtidens vand- og klimaløsninger",
+      "company": "Artelia Denmark",
+      "location": "Naestved Municipality, Region Zealand, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4468787008",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467398501": {
+      "source": "linkedin",
+      "source_id": "4467398501",
+      "title": "Medarbejder til Affald og Genbrug",
+      "company": "Slagelse Kommune",
+      "location": "Slagelse, Region Zealand, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467398501",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469931743": {
+      "source": "linkedin",
+      "source_id": "4469931743",
+      "title": "Biolog til Natur",
+      "company": "Sweco Architects Denmark",
+      "location": "Aalborg, North Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469931743",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467607094": {
+      "source": "linkedin",
+      "source_id": "4467607094",
+      "title": "Junior Power Systems Engineer for Design of Future Green Energy Systems",
+      "company": "Ramboll",
+      "location": "Copenhagen Municipality, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467607094",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469894749": {
+      "source": "linkedin",
+      "source_id": "4469894749",
+      "title": "Postdoc in Entrepreneurship and Innovation for Regenerative Food Systems - DTU Entrepreneurship",
+      "company": "DTU - Technical University of Denmark",
+      "location": "Kongens Lyngby, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469894749",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467612173": {
+      "source": "linkedin",
+      "source_id": "4467612173",
+      "title": "Finance Manager Specialist, Sustainability Reporting",
+      "company": "the LEGO Group",
+      "location": "Billund, Region of Southern Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467612173",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467601856": {
+      "source": "linkedin",
+      "source_id": "4467601856",
+      "title": "Finance Manager Specialist, Sustainability Reporting",
+      "company": "the LEGO Group",
+      "location": null,
+      "url": "https://www.linkedin.com/jobs/view/4467601856",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469892794": {
+      "source": "linkedin",
+      "source_id": "4469892794",
+      "title": "Projektleder til Grøn Trepart.  Vær med til at forme fremtidens landskaber i Ringsted Kommune  (3-årig stilling)",
+      "company": "Ringsted Kommune",
+      "location": "Ringsted, Region Zealand, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469892794",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467394735": {
+      "source": "linkedin",
+      "source_id": "4467394735",
+      "title": "Driftskoordinator til Natur og Udeliv",
+      "company": "Vejle Kommune",
+      "location": "Vejle, Region of Southern Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467394735",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469850746": {
+      "source": "linkedin",
+      "source_id": "4469850746",
+      "title": "PhD scholarship for Electrochemical Direct Air Capture (e-DAC) and CO2 Conversion - DTU Energy",
+      "company": "DTU - Technical University of Denmark",
+      "location": "Kongens Lyngby, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469850746",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469933706": {
+      "source": "linkedin",
+      "source_id": "4469933706",
+      "title": "Rekrutteringspartner til Klima, Miljø & Bæredygtighed, Infrastruktur og Energi",
+      "company": "Sweco Architects Denmark",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469933706",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469883338": {
+      "source": "linkedin",
+      "source_id": "4469883338",
+      "title": "Ingeniør/økonom til udvikling og optimering af det europæiske elmarked",
+      "company": "Energinet",
+      "location": "Fredericia, Region of Southern Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469883338",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467600431": {
+      "source": "linkedin",
+      "source_id": "4467600431",
+      "title": "Driftsmedarbejder til Affald og Genbrug",
+      "company": "Slagelse Kommune",
+      "location": "Slagelse, Region Zealand, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467600431",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467393368": {
+      "source": "linkedin",
+      "source_id": "4467393368",
+      "title": "Seniorkonsulent til strategisk spildevandsplanlægning",
+      "company": "Fors A/S",
+      "location": "Holbæk, Central Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467393368",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467380565": {
+      "source": "linkedin",
+      "source_id": "4467380565",
+      "title": "Procesingeniør til Solid Energy – sæt dit aftryk på store varmepumpeløsninger",
+      "company": "Career | a JKS Company",
+      "location": "Skjern, Central Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467380565",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469114976": {
+      "source": "linkedin",
+      "source_id": "4469114976",
+      "title": "Lead O&M and Asset Management Engineer",
+      "company": "Ramboll",
+      "location": "Copenhagen Municipality, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469114976",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468766457": {
+      "source": "linkedin",
+      "source_id": "4468766457",
+      "title": "Skal du stå i spidsen for vores satsning på spildevandsrensning?",
+      "company": "Artelia Denmark",
+      "location": null,
+      "url": "https://www.linkedin.com/jobs/view/4468766457",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469935236": {
+      "source": "linkedin",
+      "source_id": "4469935236",
+      "title": "Studentermedhjælper til energianalyse",
+      "company": "HOFOR",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469935236",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467383498": {
+      "source": "linkedin",
+      "source_id": "4467383498",
+      "title": "Projektleder til Plan- og projektteamet",
+      "company": "Guldborgsund Forsyning A/S",
+      "location": "Nykøbing F, Region Zealand, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467383498",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469928818": {
+      "source": "linkedin",
+      "source_id": "4469928818",
+      "title": "Finance Manager til Klima, Miljø og Bæredygtighed",
+      "company": "Sweco Architects Denmark",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469928818",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469936456": {
+      "source": "linkedin",
+      "source_id": "4469936456",
+      "title": "Turnaround Manager i Bioenergy",
+      "company": "Ørsted",
+      "location": "Kalundborg, Region Zealand, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469936456",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468765438": {
+      "source": "linkedin",
+      "source_id": "4468765438",
+      "title": "Leder til Service og Vedligehold hos Frederiksberg Forsyning",
+      "company": "Frederiksberg Forsyning A/S",
+      "location": "Frederiksberg Municipality, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4468765438",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469930643": {
+      "source": "linkedin",
+      "source_id": "4469930643",
+      "title": "Turnaround Manager i Bioenergy",
+      "company": "Ørsted",
+      "location": "Hvidovre, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469930643",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469873108": {
+      "source": "linkedin",
+      "source_id": "4469873108",
+      "title": "Erfaren projektleder til Biodiversitetscenter ZOO",
+      "company": "Talents2Work Aps",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469873108",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469965277": {
+      "source": "linkedin",
+      "source_id": "4469965277",
+      "title": "Driftsleder til Ejendomme – Odsherred Kommune",
+      "company": "Plastforum DK",
+      "location": "Odsherred Municipality, Region Zealand, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469965277",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469868779": {
+      "source": "linkedin",
+      "source_id": "4469868779",
+      "title": "Projektchef Power",
+      "company": "Compass Human Resources Group - DENMARK",
+      "location": "Central Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469868779",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469859861": {
+      "source": "linkedin",
+      "source_id": "4469859861",
+      "title": "Områdeleder",
+      "company": "Boligforeningen Århus Omegn",
+      "location": "Central Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469859861",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467628476": {
+      "source": "linkedin",
+      "source_id": "4467628476",
+      "title": "Mechanical Lead - Data Centres",
+      "company": "COWI",
+      "location": "Aalborg, North Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467628476",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469849782": {
+      "source": "linkedin",
+      "source_id": "4469849782",
+      "title": "Finance Director",
+      "company": "MINDWEISS",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469849782",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469841952": {
+      "source": "linkedin",
+      "source_id": "4469841952",
+      "title": "Lead Mechanical Engineer – Drive the Future of Energy & Industry",
+      "company": "Ramboll",
+      "location": "Copenhagen Municipality, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469841952",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467370112": {
+      "source": "linkedin",
+      "source_id": "4467370112",
+      "title": "Manager, Finance",
+      "company": "AIP Management",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467370112",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469849485": {
+      "source": "linkedin",
+      "source_id": "4469849485",
+      "title": "Senior Manager til Data & AI Solutions - hvor teknologi møder samfundsansvar",
+      "company": "Elnetselskabet N1",
+      "location": "Silkeborg Municipality, Central Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469849485",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467621895": {
+      "source": "linkedin",
+      "source_id": "4467621895",
+      "title": "Senior Digital Project Manager",
+      "company": "Vattenfall",
+      "location": "Kolding, Region of Southern Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467621895",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4470272751": {
+      "source": "linkedin",
+      "source_id": "4470272751",
+      "title": "Head of Strategy & Operations",
+      "company": "Aegir Insights",
+      "location": "Copenhagen Municipality, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4470272751",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469890704": {
+      "source": "linkedin",
+      "source_id": "4469890704",
+      "title": "Data Engineer",
+      "company": "Spirii",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469890704",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469871766": {
+      "source": "linkedin",
+      "source_id": "4469871766",
+      "title": "Senior Digital Project Manager",
+      "company": "Ringhals AB",
+      "location": "Kolding, Region of Southern Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469871766",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468542249": {
+      "source": "linkedin",
+      "source_id": "4468542249",
+      "title": "Specialist Data Engineer (Aarhus N, Region Central Jutland, DK, 8200)",
+      "company": "Vestas",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4468542249",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468540982": {
+      "source": "linkedin",
+      "source_id": "4468540982",
+      "title": "General Accountant",
+      "company": "GSM - Green SM",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4468540982",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469915913": {
+      "source": "linkedin",
+      "source_id": "4469915913",
+      "title": "Account Director",
+      "company": "Sedna",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469915913",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468157958": {
+      "source": "linkedin",
+      "source_id": "4468157958",
+      "title": "On-Site Support, Analyst II",
+      "company": "Lincoln Electric",
+      "location": "Odense Kommune, Region of Southern Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4468157958",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469966488": {
+      "source": "linkedin",
+      "source_id": "4469966488",
+      "title": "R&D Development Engineer (All gender)",
+      "company": "Alfa Laval",
+      "location": "Kolding, Region of Southern Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469966488",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469856660": {
+      "source": "linkedin",
+      "source_id": "4469856660",
+      "title": "Project Manager Trainee",
+      "company": "Lime Technologies",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469856660",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469891749": {
+      "source": "linkedin",
+      "source_id": "4469891749",
+      "title": "Laboratoriemedarbejder til drift og kvalitetssikring af emissionslaboratorium",
+      "company": "Danish Technological Institute",
+      "location": "Taastrup, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469891749",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469953709": {
+      "source": "linkedin",
+      "source_id": "4469953709",
+      "title": "Regulatory & Materials Specialist",
+      "company": "Americhem",
+      "location": "Søborg, Region Zealand, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469953709",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467384852": {
+      "source": "linkedin",
+      "source_id": "4467384852",
+      "title": "Customer Support Agent - Danish and English Speaking (Day/Late shift)",
+      "company": "LionHires Recruitment",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467384852",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467382167": {
+      "source": "linkedin",
+      "source_id": "4467382167",
+      "title": "Senior Application Engineer (FEA)",
+      "company": "EDRMedeso",
+      "location": "Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467382167",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467375774": {
+      "source": "linkedin",
+      "source_id": "4467375774",
+      "title": "Data Scientist",
+      "company": "Lunar",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467375774",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467364960": {
+      "source": "linkedin",
+      "source_id": "4467364960",
+      "title": "Senior Application Engineer (CFD)",
+      "company": "EDRMedeso",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467364960",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468761629": {
+      "source": "linkedin",
+      "source_id": "4468761629",
+      "title": "Product Development Project Manager",
+      "company": "Coloplast",
+      "location": "Humlebæk, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4468761629",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469112377": {
+      "source": "linkedin",
+      "source_id": "4469112377",
+      "title": "Principal Scientist – Analytical Development",
+      "company": "Hemab Therapeutics",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469112377",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468494768": {
+      "source": "linkedin",
+      "source_id": "4468494768",
+      "title": "Senior Developer",
+      "company": "Gubra",
+      "location": "Hørsholm, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4468494768",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468766551": {
+      "source": "linkedin",
+      "source_id": "4468766551",
+      "title": "Software Engineer – Knowledge Graph",
+      "company": "emagine",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4468766551",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4470296018": {
+      "source": "linkedin",
+      "source_id": "4470296018",
+      "title": "Senior Frontend / Full-Stack Developer",
+      "company": "Coach Solutions",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4470296018",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468141589": {
+      "source": "linkedin",
+      "source_id": "4468141589",
+      "title": "Product Engineer",
+      "company": "Complir",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4468141589",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4365785353": {
+      "source": "linkedin",
+      "source_id": "4365785353",
+      "title": "Studentermedhjælper – Junior Data & AI Analyst",
+      "company": "Danmarks Skibskredit (Danish Ship Finance)",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4365785353",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469876799": {
+      "source": "linkedin",
+      "source_id": "4469876799",
+      "title": "Inside Sales Representative",
+      "company": "City Container A/S",
+      "location": "Farum, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469876799",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468568123": {
+      "source": "linkedin",
+      "source_id": "4468568123",
+      "title": "Chef for forebyggelse og analyse søges til Det Kriminalpræventive Råd",
+      "company": "Politi",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4468568123",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469861928": {
+      "source": "linkedin",
+      "source_id": "4469861928",
+      "title": "Product Manager – Document Output",
+      "company": "Continia Software",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469861928",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467394514": {
+      "source": "linkedin",
+      "source_id": "4467394514",
+      "title": "Projektleder til driftsafdeling",
+      "company": "Zoologisk Have",
+      "location": null,
+      "url": "https://www.linkedin.com/jobs/view/4467394514",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468138726": {
+      "source": "linkedin",
+      "source_id": "4468138726",
+      "title": "Automotive Application Engineer",
+      "company": "Axelera AI",
+      "location": null,
+      "url": "https://www.linkedin.com/jobs/view/4468138726",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469912849": {
+      "source": "linkedin",
+      "source_id": "4469912849",
+      "title": "Logistics Coordinator - Reverse Logistics, Fredericia, Carlsberg Danmark",
+      "company": "Carlsberg Group",
+      "location": "Fredericia, Region of Southern Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469912849",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4470216312": {
+      "source": "linkedin",
+      "source_id": "4470216312",
+      "title": "Head of Data & AI Platforms",
+      "company": "VELUX",
+      "location": "Hørsholm, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4470216312",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469862607": {
+      "source": "linkedin",
+      "source_id": "4469862607",
+      "title": "Økonomi og administrationsansvarlig",
+      "company": "Clevr Car Leasing",
+      "location": "Aarhus Municipality, Central Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469862607",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4460064090": {
+      "source": "linkedin",
+      "source_id": "4460064090",
+      "title": "Driftsleder - Kgs. Lyngby",
+      "company": "Netto, Salling Group",
+      "location": "Kongens Lyngby, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4460064090",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469871114": {
+      "source": "linkedin",
+      "source_id": "4469871114",
+      "title": "Head of People & Culture",
+      "company": "e-conomic",
+      "location": "Copenhagen Municipality, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469871114",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467640332": {
+      "source": "linkedin",
+      "source_id": "4467640332",
+      "title": "Assisterende leder til Rolighedsparken",
+      "company": "Ikast-Brande Kommune",
+      "location": "Ikast, Central Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467640332",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468562702": {
+      "source": "linkedin",
+      "source_id": "4468562702",
+      "title": "Senior Engineer Offshore Engineering",
+      "company": "Goldwind",
+      "location": null,
+      "url": "https://www.linkedin.com/jobs/view/4468562702",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469930641": {
+      "source": "linkedin",
+      "source_id": "4469930641",
+      "title": "Head of Strategy Execution and Projects",
+      "company": "Ørsted",
+      "location": "Gentofte, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469930641",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467603663": {
+      "source": "linkedin",
+      "source_id": "4467603663",
+      "title": "Senioringeniør til højspændingsprojekter",
+      "company": "AFRY",
+      "location": "Kolding, Region of Southern Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467603663",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467388979": {
+      "source": "linkedin",
+      "source_id": "4467388979",
+      "title": "Senioringeniør til højspændingsprojekter",
+      "company": "AFRY",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467388979",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468702802": {
+      "source": "linkedin",
+      "source_id": "4468702802",
+      "title": "Project Manager – R&D & Technology",
+      "company": "KYOCERA Fastening Solutions France",
+      "location": "Sunds, Central Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4468702802",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4469846679": {
+      "source": "linkedin",
+      "source_id": "4469846679",
+      "title": "Product Manager",
+      "company": "Factbird",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4469846679",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467367547": {
+      "source": "linkedin",
+      "source_id": "4467367547",
+      "title": "Projektleder",
+      "company": "KARSBERG",
+      "location": "Aarhus Municipality, Central Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467367547",
+      "posted_at": "2026-09-21",
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468558188": {
+      "source": "linkedin",
+      "source_id": "4468558188",
+      "title": "Director, Device Development",
+      "company": "Hemab Therapeutics",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4468558188",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468182649": {
+      "source": "linkedin",
+      "source_id": "4468182649",
+      "title": "Advanced Product Development Engineer",
+      "company": "Novo Nordisk",
+      "location": "Hillerød, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4468182649",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468716665": {
+      "source": "linkedin",
+      "source_id": "4468716665",
+      "title": "Technical Product Manager",
+      "company": "Interacoustics A/S",
+      "location": "Middelfart, Region of Southern Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4468716665",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468759981": {
+      "source": "linkedin",
+      "source_id": "4468759981",
+      "title": "Innovation Specialist – Dairy & Ice-Cream",
+      "company": "Palsgaard A/S",
+      "location": "Juelsminde, Central Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4468759981",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4467635436": {
+      "source": "linkedin",
+      "source_id": "4467635436",
+      "title": "Quality Engineer",
+      "company": "Everllence",
+      "location": "Frederikshavn, North Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4467635436",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468762628": {
+      "source": "linkedin",
+      "source_id": "4468762628",
+      "title": "Test Engineer",
+      "company": "Coloplast",
+      "location": "Humlebæk, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4468762628",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468769163": {
+      "source": "linkedin",
+      "source_id": "4468769163",
+      "title": "Student Assistant for Contract Manufacturing Quality Management",
+      "company": "Novonesis",
+      "location": "Hørsholm, Capital Region of Denmark, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4468769163",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
+    },
+    "linkedin:4468719467": {
+      "source": "linkedin",
+      "source_id": "4468719467",
+      "title": "Senior Quality Expert (f/m/d) - Problem Solving",
+      "company": "Siemens Gamesa",
+      "location": "Brande, Central Denmark Region, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4468719467",
+      "posted_at": null,
+      "first_seen_at": "2026-09-22T11:29:38+02:00",
+      "last_seen_at": "2026-09-22T11:29:38+02:00"
     }
   }
 }
