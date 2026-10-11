@@ -1,0 +1,899 @@
+{
+  "generated_at": "2026-10-11T13:02:38+02:00",
+  "scan_window_hours": 30,
+  "sources": {
+    "jobindex": {
+      "status": "ok",
+      "pages_ok": 13,
+      "raw_results": 180,
+      "unique_results": 159,
+      "errors": []
+    },
+    "linkedin": {
+      "status": "ok",
+      "queries_ok": 8,
+      "raw_results": 184,
+      "unique_results": 77,
+      "errors": []
+    }
+  },
+  "counts": {
+    "raw_unique_jobs_seen_this_run": 236,
+    "new_jobs": 55
+  },
+  "controls": {
+    "expected_linkedin_job_ids": [],
+    "found_linkedin_job_ids": [],
+    "missing_linkedin_job_ids": []
+  },
+  "new_jobs": [
+    {
+      "source": "linkedin",
+      "source_id": "4475642950",
+      "title": "Workshop Manager",
+      "company": "Carrier",
+      "location": "Padborg, Region of Southern Denmark, Denmark",
+      "posted_at": "2026-10-11",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4475642950",
+      "search_queries": [
+        "sustainability manager"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4478091949",
+      "title": "Vi søger en hjertemedicinsk speciallæge til Sjællands Universitetshospital, Nykøbing F.",
+      "company": "Region Sjælland",
+      "location": "Nykøbing F, Region Zealand, Denmark",
+      "posted_at": "2026-10-11",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4478091949",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4478096684",
+      "title": "Technical Sales Engineer til BITZER Nordic",
+      "company": "COLO A/S",
+      "location": "Sønderborg Municipality, Region of Southern Denmark, Denmark",
+      "posted_at": "2026-10-11",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4478096684",
+      "search_queries": [
+        "ESG",
+        "LCA",
+        "climate",
+        "decarbonisation",
+        "product sustainability",
+        "sustainability"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4478098652",
+      "title": "Speciallæge i kardiologi med fokus på hjertesvigt - delestilling mellem SUH, Nykøbing F. og SUH, Roskilde",
+      "company": "Region Sjælland",
+      "location": "Nykøbing F, Region Zealand, Denmark",
+      "posted_at": "2026-10-11",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4478098652",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4475215167",
+      "title": "Solution Lead",
+      "company": "Veovo",
+      "location": "Vodskov, North Denmark Region, Denmark",
+      "posted_at": "2026-10-11",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4475215167",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4472946328",
+      "title": "Software Engineer",
+      "company": "Coolshop.com",
+      "location": "North Denmark Region, Denmark",
+      "posted_at": "2026-10-11",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4472946328",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4477650783",
+      "title": "Senior Technical Specialist – Operations",
+      "company": "Worklinq",
+      "location": "Kongens Lyngby, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-10-11",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4477650783",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4475652599",
+      "title": "Senior Sales Executive – New Business | Öresund (Köpenhamn/Malmö)",
+      "company": "Zivi",
+      "location": "Copenhagen Metropolitan Area",
+      "posted_at": "2026-10-11",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4475652599",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4475636351",
+      "title": "Senior Analytical Scientist - Synthetic API",
+      "company": "Novo Nordisk",
+      "location": "Taastrup, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-10-11",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4475636351",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4478098713",
+      "title": "Project Manager",
+      "company": "Planetary Impact Ventures",
+      "location": "Copenhagen Metropolitan Area",
+      "posted_at": "2026-10-11",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4478098713",
+      "search_queries": [
+        "ESG",
+        "LCA",
+        "circularity",
+        "climate",
+        "decarbonisation",
+        "product sustainability",
+        "sustainability",
+        "sustainability manager"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4475655255",
+      "title": "Leder til byggesagsområdet",
+      "company": "Hillerød Kommune",
+      "location": "Hillerød, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-10-11",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4475655255",
+      "search_queries": [
+        "sustainability",
+        "sustainability manager"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4475645004",
+      "title": "Laboratory Technicians for Drug Product Development",
+      "company": "Novo Nordisk",
+      "location": "Måløv, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-10-11",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4475645004",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4477247431",
+      "title": "Konsulent til koordinering i Klima-, Miljø- og Teknikforvaltningen (barselsvikariat)",
+      "company": "Københavns Kommune",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-10-11",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4477247431",
+      "search_queries": [
+        "sustainability"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "jobindex",
+      "source_id": "h1702990",
+      "title": "Kommunikationsmedarbejder til gymnasietilbud og information om DTU's ingeniøruddannelser – Afd. for Kommunikation og Medier (vikariat)",
+      "company": "DTU, Danmarks Tekniske Universitet",
+      "location": "Kgs. Lyngby",
+      "posted_at": "2026-10-11",
+      "deadline": "2026-11-08",
+      "url": "https://www.jobindex.dk/jobannonce/h1702990",
+      "search_queries": [
+        "bæredygtighed"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "jobindex",
+      "source_id": "h1702559",
+      "title": "Eventkoordinatorelev - DTU Skylab",
+      "company": "DTU, Danmarks Tekniske Universitet",
+      "location": "Kgs. Lyngby",
+      "posted_at": "2026-10-11",
+      "deadline": "2026-11-08",
+      "url": "https://www.jobindex.dk/jobannonce/h1702559",
+      "search_queries": [
+        "bæredygtighed"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "jobindex",
+      "source_id": "r14045006",
+      "title": "Butikschef i Netto - Højbjerg",
+      "company": "Netto",
+      "location": "8270 Højbjerg",
+      "posted_at": "2026-10-11",
+      "deadline": "2026-12-09",
+      "url": "https://www.jobindex.dk/jobannonce/r14045006",
+      "search_queries": [
+        "bæredygtighed"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "jobindex",
+      "source_id": "r14045003",
+      "title": "Butiksassistent under 18 år - Ålsgårde",
+      "company": "Netto",
+      "location": "3140 Ålsgårde",
+      "posted_at": "2026-10-11",
+      "deadline": "2026-12-09",
+      "url": "https://www.jobindex.dk/jobannonce/r14045003",
+      "search_queries": [
+        "bæredygtighed"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4475644910",
+      "title": "Bicycle Mechanic",
+      "company": "Dania Bikes",
+      "location": "Aabenraa, Region of Southern Denmark, Denmark",
+      "posted_at": "2026-10-11",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4475644910",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4478301425",
+      "title": "Bethlehemskirken søger en eller flere kommunikations- og relationsmedarbejdere",
+      "company": "Folkekirken",
+      "location": "Greater Odense Area",
+      "posted_at": "2026-10-11",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4478301425",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "jobindex",
+      "source_id": "r14045002",
+      "title": "1. assistent - Ålsgårde",
+      "company": "Netto",
+      "location": "3140 Ålsgårde",
+      "posted_at": "2026-10-11",
+      "deadline": "2026-12-09",
+      "url": "https://www.jobindex.dk/jobannonce/r14045002",
+      "search_queries": [
+        "bæredygtighed"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "jobindex",
+      "source_id": "r14044999",
+      "title": "1. assistent - Gilleleje",
+      "company": "Netto",
+      "location": "3250 Gilleleje",
+      "posted_at": "2026-10-11",
+      "deadline": "2026-12-09",
+      "url": "https://www.jobindex.dk/jobannonce/r14044999",
+      "search_queries": [
+        "bæredygtighed"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4469257262",
+      "title": "Vice President of Software & Analytics",
+      "company": "Kamstrup",
+      "location": "Skanderborg, Central Denmark Region, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4469257262",
+      "search_queries": [
+        "climate",
+        "decarbonisation"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4469192523",
+      "title": "Ventilationstekniker til Aalborg",
+      "company": "Kemp & Lauritzen A/S",
+      "location": "Aalborg, North Denmark Region, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4469192523",
+      "search_queries": [
+        "ESG",
+        "climate",
+        "decarbonisation",
+        "sustainability"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4476896595",
+      "title": "Ventilationsmontør til Caverions kunde Danfoss",
+      "company": "Caverion",
+      "location": "Nordborg, Region of Southern Denmark, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4476896595",
+      "search_queries": [
+        "decarbonisation"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4475613660",
+      "title": "Velfærdsdirektør til Stevns Kommune",
+      "company": "Stevns Kommune",
+      "location": "Stevns Municipality, Region Zealand, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4475613660",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4478062538",
+      "title": "Teknisk Chef - ØST eurodan-huse A/S",
+      "company": "Alr Consulting",
+      "location": "Roskilde Municipality, Region Zealand, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4478062538",
+      "search_queries": [
+        "sustainability manager"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "jobindex",
+      "source_id": "r14044528",
+      "title": "Sustainability Data Management Consultant, QAPC, Supply Division, Copenhagen",
+      "company": "UNICEF Danmark",
+      "location": "2100 København Ø",
+      "posted_at": "2026-10-10",
+      "deadline": "2026-12-08",
+      "url": "https://www.jobindex.dk/jobannonce/r14044528",
+      "search_queries": [
+        "ESG",
+        "sustainability"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4469131514",
+      "title": "Solution Manager, Product Change Management",
+      "company": "Kamstrup",
+      "location": "Skanderborg, Central Denmark Region, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4469131514",
+      "search_queries": [
+        "decarbonisation",
+        "product sustainability"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4477210698",
+      "title": "Site Reliability Engineer",
+      "company": "Trackunit",
+      "location": "Aalborg, North Denmark Region, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4477210698",
+      "search_queries": [
+        "climate"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4469173628",
+      "title": "Senior Software Engineer",
+      "company": "SimCorp",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4469173628",
+      "search_queries": [
+        "ESG"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4431859367",
+      "title": "Senior Geotekniker",
+      "company": "COWI",
+      "location": "Odense, Region of Southern Denmark, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4431859367",
+      "search_queries": [
+        "ESG",
+        "LCA",
+        "sustainability"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4469148614",
+      "title": "Senior Director, Supply Chain, Repair & Tools, NCE (m/f/d)",
+      "company": "Vestas",
+      "location": "Aarhus Municipality, Central Denmark Region, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4469148614",
+      "search_queries": [
+        "climate",
+        "decarbonisation",
+        "sustainability",
+        "sustainability manager"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4469163341",
+      "title": "Senior Director, Supply Chain, Repair & Tools, NCE (m/f/d)",
+      "company": "Vestas",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4469163341",
+      "search_queries": [
+        "climate",
+        "decarbonisation",
+        "sustainability manager"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4475612517",
+      "title": "Sales Manager (m/f/d) – OEM Filtration, EMEA",
+      "company": "Thermo Fisher Scientific",
+      "location": "Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4475612517",
+      "search_queries": [
+        "climate"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "jobindex",
+      "source_id": "r14044523",
+      "title": "Regulatory Impact Programme Intern, Denmark (Copenhagen - HQ), Estonia, Lithuania",
+      "company": "Preferred by Nature",
+      "location": "København",
+      "posted_at": "2026-10-10",
+      "deadline": "2026-12-08",
+      "url": "https://www.jobindex.dk/jobannonce/r14044523",
+      "search_queries": [
+        "climate",
+        "sustainability"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4478039202",
+      "title": "Projektleder – Installation af Målere og Radionetværk",
+      "company": "BA technologies",
+      "location": "Greater Odense Area",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4478039202",
+      "search_queries": [
+        "climate",
+        "decarbonisation",
+        "sustainability"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4475624231",
+      "title": "Project Manager",
+      "company": "Spencer Marshall",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4475624231",
+      "search_queries": [
+        "ESG",
+        "decarbonisation",
+        "product sustainability",
+        "sustainability",
+        "sustainability manager"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4478062794",
+      "title": "Produktions- og  H&S koordinator, Schulstad",
+      "company": "Lantmännen Unibake",
+      "location": "Hvidovre, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4478062794",
+      "search_queries": [
+        "LCA",
+        "product sustainability"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4466681988",
+      "title": "Line Improvement Coordinator, Pakkeri - Rødkærsbro",
+      "company": "Arla Foods",
+      "location": "Rødkærsbro, Central Denmark Region, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4466681988",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4458023871",
+      "title": "Køletekniker/Servicetekniker (Roskilde)",
+      "company": "Johnson Controls",
+      "location": "Roskilde, Region Zealand, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4458023871",
+      "search_queries": [
+        "ESG",
+        "climate",
+        "decarbonisation",
+        "sustainability"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4422826525",
+      "title": "Geoteknisk ingeniør til komplekse infrastrukturprojekter",
+      "company": "WSP Danmark",
+      "location": "Taastrup, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4422826525",
+      "search_queries": [
+        "LCA",
+        "sustainability"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4459877299",
+      "title": "General Counsel",
+      "company": "KOMPAN Global",
+      "location": "Odense, Region of Southern Denmark, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4459877299",
+      "search_queries": [
+        "ESG",
+        "LCA",
+        "circularity"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4465695412",
+      "title": "Frøavlschef",
+      "company": "Vikima Seed A/S",
+      "location": "Holeby, Region Zealand, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4465695412",
+      "search_queries": [
+        "circularity",
+        "sustainability"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "jobindex",
+      "source_id": "r14044525",
+      "title": "Finance Specialist (Supply Financing), Copenhagen",
+      "company": "UNICEF Danmark",
+      "location": "2100 København Ø",
+      "posted_at": "2026-10-10",
+      "deadline": "2026-12-08",
+      "url": "https://www.jobindex.dk/jobannonce/r14044525",
+      "search_queries": [
+        "sustainability"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4469176931",
+      "title": "Finance Business Partner- EMEA",
+      "company": "Topsoe",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4469176931",
+      "search_queries": [
+        "climate",
+        "decarbonisation"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4413830015",
+      "title": "Erfaren konstruktionsingeniør med stærke samarbejdsevner",
+      "company": "Artelia Denmark",
+      "location": "Fredericia, Region of Southern Denmark, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4413830015",
+      "search_queries": [
+        "LCA",
+        "sustainability"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4474044761",
+      "title": "ED, Strategic Site Collaboration",
+      "company": "Thermo Fisher Scientific",
+      "location": "Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4474044761",
+      "search_queries": [
+        "climate"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4478068979",
+      "title": "Dansk Erhverv søger studentermedhjælper til Handel",
+      "company": "Altandetlige.dk",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4478068979",
+      "search_queries": [
+        "product sustainability"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4478053225",
+      "title": "Daglig leder til træningscenter, ProRepubliQ Kolding",
+      "company": "ProRepubliQ",
+      "location": "Kolding, Region of Southern Denmark, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4478053225",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4449792357",
+      "title": "Customer Experience Manager - Greve",
+      "company": "Bilka, Salling Group",
+      "location": "Greve Strand, Region Zealand, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4449792357",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4469234149",
+      "title": "Creative Junior Buyer",
+      "company": "VERO MODA",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4469234149",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4466930071",
+      "title": "Cheflæge til Hjertesygdomme – Regionshospitalet Gødstrup",
+      "company": "Regionshospitalet Gødstrup",
+      "location": "Herning, Central Denmark Region, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4466930071",
+      "search_queries": [
+        "circularity"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "jobindex",
+      "source_id": "r14044482",
+      "title": "Butiksassistent under 18 år - Farum",
+      "company": "Netto",
+      "location": "3520 Farum",
+      "posted_at": "2026-10-10",
+      "deadline": "2026-12-08",
+      "url": "https://www.jobindex.dk/jobannonce/r14044482",
+      "search_queries": [
+        "bæredygtighed"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4469172964",
+      "title": "Beauty Consultant - ILLUM- 10H - Permanent",
+      "company": "Parfums Christian Dior",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4469172964",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4448751276",
+      "title": "Associate Professor or DTU Tenure Track Assistant Professor in Optical Quantum Information - DTU Physics",
+      "company": "DTU - Technical University of Denmark",
+      "location": "Kongens Lyngby, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-10-10",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4448751276",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-10-11T13:02:38+02:00",
+      "last_seen_at": "2026-10-11T13:02:38+02:00"
+    }
+  ]
+}
