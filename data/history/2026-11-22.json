@@ -1,0 +1,555 @@
+{
+  "generated_at": "2026-11-22T14:37:42+01:00",
+  "scan_window_hours": 30,
+  "sources": {
+    "jobindex": {
+      "status": "partial",
+      "pages_ok": 10,
+      "raw_results": 109,
+      "unique_results": 101,
+      "errors": [
+        "climate p1: HTTPError: 429 Client Error: Too Many Requests for url: https://www.jobindex.dk/jobsoegning?q=climate&page=1&jobage=3&sort=date"
+      ]
+    },
+    "linkedin": {
+      "status": "ok",
+      "queries_ok": 8,
+      "raw_results": 112,
+      "unique_results": 61,
+      "errors": []
+    }
+  },
+  "counts": {
+    "raw_unique_jobs_seen_this_run": 162,
+    "new_jobs": 34
+  },
+  "controls": {
+    "expected_linkedin_job_ids": [],
+    "found_linkedin_job_ids": [],
+    "missing_linkedin_job_ids": []
+  },
+  "new_jobs": [
+    {
+      "source": "jobindex",
+      "source_id": "r14115782",
+      "title": "Studienævn for Elektronik og IT/Institut for Elektroniske Systemer i København søger studenterstudievejledere",
+      "company": "Aalborg Universitet",
+      "location": "2450 København SV",
+      "posted_at": "2026-11-22",
+      "deadline": "2026-12-05",
+      "url": "https://www.jobindex.dk/jobannonce/r14115782",
+      "search_queries": [
+        "cirkulær"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4493197029",
+      "title": "Specialist/Senior Specialist Pharmacometrician - Translational and Clin Dev",
+      "company": "Ascendis Pharma",
+      "location": "Gentofte, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-11-22",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4493197029",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "jobindex",
+      "source_id": "r14115823",
+      "title": "Souschef - Skive",
+      "company": "Netto",
+      "location": "7800 Skive",
+      "posted_at": "2026-11-22",
+      "deadline": "2027-01-20",
+      "url": "https://www.jobindex.dk/jobannonce/r14115823",
+      "search_queries": [
+        "bæredygtighed"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4493138835",
+      "title": "Senior Specialists - Mechanical, Electrical and Industrialization/Manufacturing Systems (Aarhus N, Region Central Jutland, DK, 8200)",
+      "company": "Vestas",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "posted_at": "2026-11-22",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4493138835",
+      "search_queries": [
+        "product sustainability"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4493506016",
+      "title": "Senior Frontend Engineer",
+      "company": "Chora A/S",
+      "location": "Aalborg, North Denmark Region, Denmark",
+      "posted_at": "2026-11-22",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4493506016",
+      "search_queries": [
+        "ESG"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4493357798",
+      "title": "Senior Engineer: Mathematical Modeling and Simulation",
+      "company": "Amgen",
+      "location": "Gladsaxe, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-11-22",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4493357798",
+      "search_queries": [
+        "ESG",
+        "LCA",
+        "product sustainability",
+        "sustainability"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4493180667",
+      "title": "Reference Standard Specialist",
+      "company": "Ascendis Pharma",
+      "location": "Gentofte, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-11-22",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4493180667",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4493382102",
+      "title": "Læge til uklassificeret stilling i spiseforstyrrelsesenheden på Psykiatrisk Center Ballerup",
+      "company": "Gentofte Hospital",
+      "location": "Ballerup, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-11-22",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4493382102",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4493350943",
+      "title": "Forskningsleder",
+      "company": "Rigshosptalet",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "posted_at": "2026-11-22",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4493350943",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "jobindex",
+      "source_id": "h1717916",
+      "title": "Finmekanikerlærling til DTU Construct",
+      "company": "DTU, Danmarks Tekniske Universitet",
+      "location": "Kongens Lyngby",
+      "posted_at": "2026-11-22",
+      "deadline": "2026-12-20",
+      "url": "https://www.jobindex.dk/jobannonce/h1717916",
+      "search_queries": [
+        "bæredygtighed"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4493185899",
+      "title": "Associate Director, GCP Quality",
+      "company": "Ascendis Pharma",
+      "location": "Gentofte, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-11-22",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4493185899",
+      "search_queries": [
+        "ESG"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4493282688",
+      "title": "TECHNICAL SALES",
+      "company": "Gastech-Energi A/S",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "posted_at": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4493282688",
+      "search_queries": [
+        "ESG",
+        "sustainability"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "jobindex",
+      "source_id": "r14115447",
+      "title": "Supply Chain Data Analyst Consultant, UNICEF Supply Division, Monitoring Strategic Data Centre (MSDC), Copenhagen, Denmark, 1",
+      "company": "UNICEF Danmark",
+      "location": "2100 København Ø",
+      "posted_at": "2026-11-21",
+      "deadline": "2027-01-19",
+      "url": "https://www.jobindex.dk/jobannonce/r14115447",
+      "search_queries": [
+        "sustainability"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4483499069",
+      "title": "Speciallæge til Ældresygdomme, Aarhus Universitetshospital",
+      "company": "Aarhus Universitetshospital",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "posted_at": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4483499069",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4475785816",
+      "title": "Senior Software Developer",
+      "company": "Bankdata",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "posted_at": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4475785816",
+      "search_queries": [
+        "ESG"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4483488039",
+      "title": "Senior Manager Information Compliance – Information Security Governance",
+      "company": "Simon-Kucher",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4483488039",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4431869233",
+      "title": "Senior Geotekniker",
+      "company": "COWI",
+      "location": "Vejle, Region of Southern Denmark, Denmark",
+      "posted_at": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4431869233",
+      "search_queries": [
+        "LCA",
+        "sustainability"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4485354825",
+      "title": "Rootsystem Tooling Specialist",
+      "company": "Vestas",
+      "location": "Lem, Central Denmark Region, Denmark",
+      "posted_at": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4485354825",
+      "search_queries": [
+        "product sustainability",
+        "sustainability"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4485356422",
+      "title": "Rootsystem Process Engineering - Specialist",
+      "company": "Vestas",
+      "location": "Lem, Central Denmark Region, Denmark",
+      "posted_at": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4485356422",
+      "search_queries": [
+        "LCA",
+        "product sustainability",
+        "sustainability"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4485601181",
+      "title": "Retentionkonsulent",
+      "company": "Andel Energi",
+      "location": "Svinninge, Region Zealand, Denmark",
+      "posted_at": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4485601181",
+      "search_queries": [
+        "ESG",
+        "climate",
+        "decarbonisation",
+        "sustainability"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4492301853",
+      "title": "Postdoctoral Researcher in Electrical Engineering: Novel NMR Instrumentation for Groundwater Measurements",
+      "company": "Aarhus University",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "posted_at": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4492301853",
+      "search_queries": [
+        "LCA",
+        "sustainability"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4493275337",
+      "title": "Mid Software Engineer | OTC Product Area, Fintech Solutions",
+      "company": "SimCorp",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4493275337",
+      "search_queries": [
+        "ESG"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4477671261",
+      "title": "Maintenance & Facilities Manager - CUBIC",
+      "company": "Rockwell Automation",
+      "location": "Aabybro, North Denmark Region, Denmark",
+      "posted_at": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4477671261",
+      "search_queries": [
+        "sustainability"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4493295564",
+      "title": "Lærere",
+      "company": "Læringshus Nærheden",
+      "location": "Høje-Taastrup Municipality, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4493295564",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4477833063",
+      "title": "Lead Technician",
+      "company": "Danfoss",
+      "location": "Nordborg, Region of Southern Denmark, Denmark",
+      "posted_at": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4477833063",
+      "search_queries": [
+        "sustainability"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4456959525",
+      "title": "Laboratory Manager Electrical Testing",
+      "company": "UL Solutions",
+      "location": "Ballerup, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4456959525",
+      "search_queries": [
+        "product sustainability"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4485399231",
+      "title": "Junior Environmental Artist",
+      "company": "Trackman",
+      "location": "Hørsholm, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4485399231",
+      "search_queries": [
+        "sustainability"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4485372250",
+      "title": "Indkøber",
+      "company": "VILA",
+      "location": "Skanderborg, Central Denmark Region, Denmark",
+      "posted_at": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4485372250",
+      "search_queries": [
+        "product sustainability"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4475950412",
+      "title": "Finansiel rådgiver til Lån & Spar i Aarhus N |",
+      "company": "Lån & Spar Bank",
+      "location": "Aarhus Municipality, Central Denmark Region, Denmark",
+      "posted_at": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4475950412",
+      "search_queries": [
+        "LCA"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4483448037",
+      "title": "Director, Internal Audit",
+      "company": "Simon-Kucher",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "posted_at": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4483448037",
+      "search_queries": [
+        "ESG"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "linkedin",
+      "source_id": "4493295109",
+      "title": "Chief Specialist Engineer - Electrical system design and grid integration",
+      "company": "Ramboll",
+      "location": "Odense, Region of Southern Denmark, Denmark",
+      "posted_at": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4493295109",
+      "search_queries": [
+        "decarbonisation"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "jobindex",
+      "source_id": "r14115385",
+      "title": "Butiksassistent under 18 år - Svendborg",
+      "company": "Netto",
+      "location": "5700 Svendborg",
+      "posted_at": "2026-11-21",
+      "deadline": "2027-01-19",
+      "url": "https://www.jobindex.dk/jobannonce/r14115385",
+      "search_queries": [
+        "bæredygtighed"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "jobindex",
+      "source_id": "r14115393",
+      "title": "Barselsstilling, kostfaglig eneansvarlig i et dagtilbud",
+      "company": "Kolding Kommune",
+      "location": "6000 Kolding",
+      "posted_at": "2026-11-21",
+      "deadline": "2027-01-19",
+      "url": "https://www.jobindex.dk/jobannonce/r14115393",
+      "search_queries": [
+        "bæredygtighed"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    },
+    {
+      "source": "jobindex",
+      "source_id": "r14115384",
+      "title": "1. assistent - Svendborg",
+      "company": "Netto",
+      "location": "5700 Svendborg",
+      "posted_at": "2026-11-21",
+      "deadline": "2027-01-19",
+      "url": "https://www.jobindex.dk/jobannonce/r14115384",
+      "search_queries": [
+        "bæredygtighed"
+      ],
+      "first_seen_at": "2026-11-22T14:37:42+01:00",
+      "last_seen_at": "2026-11-22T14:37:42+01:00"
+    }
+  ]
+}
